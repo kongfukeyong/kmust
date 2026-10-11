@@ -1,0 +1,12 @@
+{
+  "rawQuestionCount": 9365,
+  "questionCount": 9211,
+  "quarantinedCount": 154,
+  "questionsWithAnswers": 2406,
+  "reasons": {
+    "duplicate-option-label": 32,
+    "long-stem-review": 23,
+    "answer-option-mismatch": 99
+  },
+  "allIdsAccountedFor": true
+}

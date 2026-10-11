@@ -1,0 +1,171 @@
+{
+  "all": {
+    "url": "downloads/kust-original-materials.zip",
+    "count": 327,
+    "size": 252929048
+  },
+  "courses": [
+    {
+      "course": "c++面向对象程序设计",
+      "url": "downloads/courses/1538e614015415f5.zip",
+      "count": 1,
+      "size": 397225
+    },
+    {
+      "course": "c语言",
+      "url": "downloads/courses/15e727e3e92aa6f2.zip",
+      "count": 5,
+      "size": 1815309
+    },
+    {
+      "course": "传感器",
+      "url": "downloads/courses/a4f7cbe44e925942.zip",
+      "count": 9,
+      "size": 6326062
+    },
+    {
+      "course": "大学物理",
+      "url": "downloads/courses/1927a1cc0b5dd64e.zip",
+      "count": 74,
+      "size": 26469204
+    },
+    {
+      "course": "大学计算机",
+      "url": "downloads/courses/a73b8cce6d7312c5.zip",
+      "count": 1,
+      "size": 39943
+    },
+    {
+      "course": "工程制图B",
+      "url": "downloads/courses/a76a25a9f50cc57a.zip",
+      "count": 5,
+      "size": 30618967
+    },
+    {
+      "course": "思想道德与法治",
+      "url": "downloads/courses/0b69d84945c7dffa.zip",
+      "count": 1,
+      "size": 33116
+    },
+    {
+      "course": "操作系统期末试卷",
+      "url": "downloads/courses/f1a09192b6082c7c.zip",
+      "count": 6,
+      "size": 1223106
+    },
+    {
+      "course": "数据库与数据仓库",
+      "url": "downloads/courses/ec91f81d22061c2d.zip",
+      "count": 21,
+      "size": 12125470
+    },
+    {
+      "course": "新思想",
+      "url": "downloads/courses/dcb0ee06f1683857.zip",
+      "count": 2,
+      "size": 2105018
+    },
+    {
+      "course": "概统",
+      "url": "downloads/courses/15a0d8201ae89c83.zip",
+      "count": 14,
+      "size": 6961609
+    },
+    {
+      "course": "模式识别",
+      "url": "downloads/courses/d375f809b4fd4462.zip",
+      "count": 2,
+      "size": 412534
+    },
+    {
+      "course": "模电",
+      "url": "downloads/courses/64a884874de625cb.zip",
+      "count": 10,
+      "size": 7921680
+    },
+    {
+      "course": "毛 概",
+      "url": "downloads/courses/34e5ef61d4203bc7.zip",
+      "count": 15,
+      "size": 282458
+    },
+    {
+      "course": "物理实验数据处理",
+      "url": "downloads/courses/1d2a5c9ab3bb5b49.zip",
+      "count": 4,
+      "size": 41323
+    },
+    {
+      "course": "电力系统稳态分析",
+      "url": "downloads/courses/8a9a239f9fff47b0.zip",
+      "count": 3,
+      "size": 8149487
+    },
+    {
+      "course": "电工及电子技术基础",
+      "url": "downloads/courses/31c0d9725cf8e9d1.zip",
+      "count": 3,
+      "size": 14228226
+    },
+    {
+      "course": "电机学",
+      "url": "downloads/courses/96a79a3fffaa2018.zip",
+      "count": 4,
+      "size": 15785662
+    },
+    {
+      "course": "电路与电子技术",
+      "url": "downloads/courses/703e3845e9cd4f9b.zip",
+      "count": 1,
+      "size": 56470
+    },
+    {
+      "course": "程序设计基础",
+      "url": "downloads/courses/3759fa0fb1c02e76.zip",
+      "count": 9,
+      "size": 2309955
+    },
+    {
+      "course": "线性代数",
+      "url": "downloads/courses/f830684c231eea3e.zip",
+      "count": 33,
+      "size": 38056666
+    },
+    {
+      "course": "自控原理+控制理论",
+      "url": "downloads/courses/2fa3877cdd8113eb.zip",
+      "count": 22,
+      "size": 6049937
+    },
+    {
+      "course": "软件工程",
+      "url": "downloads/courses/4a47a7f883286d92.zip",
+      "count": 8,
+      "size": 2485409
+    },
+    {
+      "course": "近代史纲要",
+      "url": "downloads/courses/21bb69d3f7d5be63.zip",
+      "count": 2,
+      "size": 104468
+    },
+    {
+      "course": "马 原",
+      "url": "downloads/courses/f48c64878e63f25d.zip",
+      "count": 2,
+      "size": 271557
+    },
+    {
+      "course": "高数A上",
+      "url": "downloads/courses/3633d915292764a9.zip",
+      "count": 18,
+      "size": 17350078
+    },
+    {
+      "course": "高数A下",
+      "url": "downloads/courses/ba393eabae34d5d2.zip",
+      "count": 51,
+      "size": 52076716
+    }
+  ]
+}

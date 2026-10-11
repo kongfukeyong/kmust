@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#fafafa"><meta name="description" content="昆明理工大学学习资料与逐题练习。按课程查找原卷，收藏题目，记录复习进度。">
+  <title>昆工拾题 · 把知识一点点拾起来</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css?v=1.0.4a"><link rel="stylesheet" href="originals.css">
+</head>
+<body>
+  <header class="header"><a class="brand" href="./" aria-label="昆工拾题首页"><span class="brand-mark">拾</span><span>昆工拾题<small>KUST STUDY</small></span></a><nav aria-label="主导航"><a class="nav original-nav-link" href="originals.html">原始资料下载</a><button data-view="resources" class="nav active">资料广场</button><button data-view="questions" class="nav">逐题练习</button><button data-view="saved" class="nav">我的收藏</button></nav><a class="app-link button secondary" href="downloads/kust-study.apk" download>↓ Android 版</a></header>
+  <main>
+    <section class="intro"><div><div class="intro-note"><span class="dot"></span>你的随身课程资料库</div><h1>把知识，<br class="mobile-break">一点点拾起来<span class="pink">。</span></h1><p>从一份原卷，到一道好题。<br>让每一次复习，都有迹可循。</p><button id="start-study" class="button primary">开始逐题练习 <span>↗</span></button><a class="button secondary original-entry" href="originals.html">↓ 下载原始资料</a></div><div class="intro-art" aria-hidden="true"><div class="paper paper-back"><span>温故 · 知新</span><strong>∫</strong><span>微积分 / 线性代数</span></div><div class="paper paper-front"><span>今天，也前进一步</span><strong>A little<br>every day.</strong><div class="paper-line"></div><span>学习是一个积累的过程 ↗</span></div><span class="spark">✳</span></div></section>
+    <section class="stats" aria-label="资料与学习统计"><div><strong id="resource-count">—</strong><span>份课程资料</span></div><div><strong id="course-count">—</strong><span>门课程</span></div><div><strong id="question-count">—</strong><span>道分离题目</span></div><div><strong id="learned-count">0</strong><span>道已掌握</span></div></section>
+    <section class="library" aria-labelledby="section-title"><div class="section-heading"><div><h2 id="section-title">资料广场</h2><p id="section-description">找到正在学的那一门课。</p></div><button id="about" class="text-button">整理说明 ↗</button></div>
+      <div class="search-row"><label class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" class="rounded-full bg-zinc-100 border-0 focus:outline-none focus:ring-2 focus:ring-zinc-900/10 transition-all" type="search" placeholder="搜索课程、试卷或题目…" aria-label="搜索课程、试卷或题目"></label><select id="kind-filter" aria-label="资料或题目类型"><option value="all">全部类型</option></select></div>
+      <div class="course-toolbar"><span>按课程查找</span><button id="edit-course-order" class="text-button" disabled>⇅ 调整顺序</button></div>
+      <div id="course-filters" class="filters" aria-label="课程筛选"></div><div class="results-bar"><span id="result-count" role="status" aria-live="polite">正在整理书架…</span><label id="review-filter-wrap" hidden><input type="checkbox" id="wrong-only"> 只看待复习</label><button id="export" class="text-button">导出学习记录</button></div>
+      <div id="cards" class="masonry" aria-busy="true"><div class="skeleton"></div><div class="skeleton tall"></div><div class="skeleton"></div></div>
+      <div id="empty" class="empty" hidden><span>⌕</span><h3>这里还没有内容</h3><p>试试其他关键词，或切换课程。</p><button id="reset" class="button secondary">清除筛选</button></div><div class="load-row"><button id="load-more" class="button secondary" hidden>再看一些 ↓</button></div>
+    </section>
+    <footer><span>昆工拾题 · 学习的积累，看得见。</span><a href="https://github.com/123pyLeo/KUST-" target="_blank" rel="noopener">资料来源 KUST- ↗</a></footer>
+  </main>
+  <nav class="mobile-nav" aria-label="手机导航"><a href="originals.html">↓ 原始资料</a><button data-view="resources" class="active"><span>▤</span>资料</button><button data-view="questions"><span>✎</span>练习</button><button data-view="saved"><span>♡</span>收藏</button></nav>
+  <dialog id="detail"><div class="dialog-header"><span id="dialog-label">题目详情</span><button id="close-dialog" class="icon-button" aria-label="关闭">×</button></div><div id="dialog-content"></div></dialog><div id="toast" role="status" aria-live="polite"></div>
+  <dialog id="course-order-dialog" aria-labelledby="course-order-title" aria-describedby="course-order-hint">
+    <div class="dialog-header"><h2 id="course-order-title">调整课程顺序</h2><button id="close-course-order" class="icon-button" aria-label="取消调整课程顺序">×</button></div>
+    <p id="course-order-hint">把常用课程置顶，或用箭头调整位置。顺序保存在这台设备上，“全部课程”始终在最前面。</p>
+    <ol id="course-order-list" aria-label="课程排序"></ol>
+    <p id="course-order-status" role="status" aria-live="polite"></p>
+    <div class="course-order-footer"><button id="reset-course-order" class="text-button">恢复默认</button><button id="save-course-order" class="button primary">保存顺序</button></div>
+  </dialog>
+  <script src="math-render.js?v=1.0.4" defer></script>
+  <script src="vendor/mathjax/mml-svg.js" defer></script>
+  <script src="app.js?v=1.0.4" defer></script>
+</body>
+</html>

@@ -1,0 +1,1990 @@
+{
+  "schemaVersion": 1,
+  "questionCount": 9211,
+  "docxQuestionCount": 1423,
+  "enrichedQuestionCount": 21,
+  "enrichedFields": {
+    "stem": 15,
+    "answer": 2,
+    "option": 5
+  },
+  "changedQuestionIds": [
+    "fcbba8d1d8db614c",
+    "8aad3258b1c8d1c5",
+    "b652df9e2c038748",
+    "7a617f5dc0268712",
+    "e7a60cd5adebe0d6",
+    "96f6117d80d4f196",
+    "38c36b16aaac815a",
+    "b810b2e1eb0fdb39",
+    "6bed1cba2e299f6b",
+    "d42515e8762e5012",
+    "ffa6589f2efceae8",
+    "b8688f74d30d0301",
+    "e8ad1ba525b450b6",
+    "5d0bfbdabb43646e",
+    "7739771fe089b2d5",
+    "63a52a677fe29a72",
+    "ccb121ff9d9253f4",
+    "b6737af10a41ffb5",
+    "3c6c8692c1fa6d4d",
+    "aa638917bd4e9dbe",
+    "dbfde385f3d6dfb0"
+  ],
+  "originalIdsAndTextUnchanged": true,
+  "documents": [
+    {
+      "sourcePath": "c语言/智慧树《C君带你玩编程》.docx",
+      "paragraphs": 10,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "传感器/传感器设计题.docx",
+      "paragraphs": 29,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 7,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "paragraphs": 3208,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 18,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "新思想/简答题.docx",
+      "paragraphs": 139,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 3,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "模式识别/模式识别简答.docx",
+      "paragraphs": 100,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 2,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "模电/试卷1.docx",
+      "paragraphs": 90,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 9,
+      "unsupported": 4
+    },
+    {
+      "sourcePath": "模电/试卷2.docx",
+      "paragraphs": 85,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 9,
+      "unsupported": 4
+    },
+    {
+      "sourcePath": "模电/试卷3.docx",
+      "paragraphs": 89,
+      "math": 6,
+      "incompleteMath": 0,
+      "images": 29,
+      "unsupported": 4
+    },
+    {
+      "sourcePath": "模电/试卷4.docx",
+      "paragraphs": 90,
+      "math": 2,
+      "incompleteMath": 0,
+      "images": 8,
+      "unsupported": 4
+    },
+    {
+      "sourcePath": "模电/试卷5.docx",
+      "paragraphs": 121,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 35,
+      "unsupported": 40
+    },
+    {
+      "sourcePath": "毛 概/2022毛中特概论复习题/导论.docx",
+      "paragraphs": 61,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "毛 概/2022毛中特概论复习题/第一章.docx",
+      "paragraphs": 200,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "毛 概/2022毛中特概论复习题/第七章.docx",
+      "paragraphs": 247,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "毛 概/2022毛中特概论复习题/第三章.docx",
+      "paragraphs": 175,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "毛 概/2022毛中特概论复习题/第九章.docx",
+      "paragraphs": 204,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "毛 概/2022毛中特概论复习题/第二章.docx",
+      "paragraphs": 277,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "毛 概/2022毛中特概论复习题/第五章.docx",
+      "paragraphs": 187,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "毛 概/2022毛中特概论复习题/第八章.docx",
+      "paragraphs": 161,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "毛 概/2022毛中特概论复习题/第六章.docx",
+      "paragraphs": 222,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "毛 概/2022毛中特概论复习题/第十一章.docx",
+      "paragraphs": 216,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 2,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "毛 概/2022毛中特概论复习题/第十三章.docx",
+      "paragraphs": 31,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "毛 概/2022毛中特概论复习题/第十二章.docx",
+      "paragraphs": 87,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "毛 概/2022毛中特概论复习题/第十四章.docx",
+      "paragraphs": 95,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "毛 概/2022毛中特概论复习题/第十章.docx",
+      "paragraphs": 213,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "毛 概/2022毛中特概论复习题/第四章.docx",
+      "paragraphs": 221,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    },
+    {
+      "sourcePath": "自控原理+控制理论/自控原理近四年试卷整理/5.2019-2020学年-自动控制原理-A卷.docx",
+      "paragraphs": 49,
+      "math": 14,
+      "incompleteMath": 0,
+      "images": 12,
+      "unsupported": 4
+    },
+    {
+      "sourcePath": "自控原理+控制理论/自控原理近四年试卷整理/6.2019-2020学年-自动控制原理-B卷.docx",
+      "paragraphs": 47,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 15,
+      "unsupported": 4
+    },
+    {
+      "sourcePath": "近代史纲要/近代史简答.docx",
+      "paragraphs": 139,
+      "math": 0,
+      "incompleteMath": 0,
+      "images": 0,
+      "unsupported": 0
+    }
+  ],
+  "issues": [
+    {
+      "id": "2f2a6c8cff1d768f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b9c086cff3360a3f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "fc8f8f78f1bb8d2a",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "13e540471e960644",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "92d2494351372cb1",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "9f4ae6d7310f2a7e",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "4624f8a77c76a6a8",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b11fd5524524f709",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "33eec6ffb473e4e2",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "89b39667cab458c5",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "c8636db28001b7b5",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "60de8027ef315df3",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "7642325eebd81971",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "854dbdcbb56f9b74",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "d5efe6091d6d33ee",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "437af3c4878f6b77",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "1c6f9b708569c5bc",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "7aa82d094bc22dcb",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b1bf645a0c2b8fa8",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "7e07d524b4d27d29",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "4850e46e33d62303",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b18ef0d3b96d8e0f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "ac9a01f0260c2fb7",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "a3646d82c9d8fcbc",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "a099b78fcf8f38a4",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "90347e5f446c26a4",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "e969b4ebc62d7b9f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "bfa13b39042f0de4",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "890993c19eb889c3",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "9d7d9525b4eb8eec",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "88829ba7431bb26b",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "1a02e2a98baf755a",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "67597df0f467f6c2",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "725a1ac18b9fd4e7",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "25275472d36cf887",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "1ee1a8d5289266ae",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "1c03fdbdfac74e2d",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "23f43576cd3e4146",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "6c05327c0acf016d",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "1e3ae10fda9d1693",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "de49394e3abb244f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b2b6798db0e7ed6a",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "3722e5b82a25661a",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "fd5fefd8ed9dd5a5",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "562dce67c887ad72",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "c528c5887a086f3f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "7f8d50ec4ccf27e8",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "91344693e4e838ea",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "7e62dabf622cb85f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "8e01bd689afef6d6",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "e2b5079f102dab90",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "24862d81b7cc8429",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "bb1d51ad676a0ea7",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "cf16eeca40af5e1d",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "4f86dd807df151cb",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "9498029e328b1d84",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "92a5677b32200934",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "a47356afccae8177",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "eab4deb3cd459773",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "376479a946269e51",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "f04cb7af4552a330",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "7cd7ef3ca934609a",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "65f438ff703f8e31",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "bbd5bb85dbffc48e",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "d13823811fcad878",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "e347e2f40daa1dda",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "4cde72c564691159",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "3b5a90fb920d00f7",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "a5e66c6cb24dd0c1",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "8b03d9c0ad857f48",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "41354fcf1d8bae5c",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "78ba0197557717b8",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "a8505e05edb82f7e",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "d312e57ae0520ef2",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "84824902286abbcd",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "5b9efa8e82a9eced",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "49e2c3498df61095",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "8656ef5b82471cd8",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "e1352dc0b301a840",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "6e426cdba854796f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "4a3805663435693d",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "4127a2b67db82431",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "cb0e9f854d7aa48d",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "2173b7c4085cafe1",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "123ac9a1323f0d0e",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "bd2c831929df3f59",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "60ae2681606e16e1",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b6d1b3f6142c60b2",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "88809a28d9204067",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "e93289ec0d526156",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "369d72423d2e710e",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "6a2c1c82379ccbf6",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "3034df713100bc26",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "cb21f14dd85ffc09",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "d698b10f641de814",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "f3e6d46d9dcbcc42",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "c5148dd5e3cbc65f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "7690bde6a57c7e49",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "07814f128c9df8e2",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "e9a40531e0f093c8",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "a4751ca0455ea03f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "83da9422787097dc",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "8542d2d50da3690e",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "baa0549645a0fbd7",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "a2aa5a91205b512c",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "ee3718398cad2058",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "d496f1d4da877379",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "7cc2ccc7ec9b75b4",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "f930ca10d5376138",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "aa57f0b89280fba9",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "47c4c23ab851f3be",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "816f6c434818db9e",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "d925c7a6a4b7351d",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "82340bf46c74c080",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "2c64835ad4893b50",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "26c35b7ace544432",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "6bf70d874d5c81f0",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b08c86442556b2a7",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "934c319f92ba54aa",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b3ccede2e67dc8e4",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "9a2e31ab6bf07edf",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b5c934922551b17e",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "e209ca76f01b09a6",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "913c624eceab1ebb",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "5056d5c693ba5bde",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "e53c4af232e8216a",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "3b425beed77584ad",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "43b62c3bf0008dee",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "55fa340c55b73cee",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "7ff1a152f5918ae0",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "f21e01a964378f4e",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "d5e3a11e0f8c165f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "e8558eddc460103d",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "ce8aa07a83a10fb9",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "c52ac0b9674ab185",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "8485c9928bcefd5d",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "4bf9b39407970f49",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "36ab96f69a920d61",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "fba1f984fd3e9c02",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "ba6f8c94ddc5ad7a",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b53678a2c1c6c29d",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "7a1145b7e3659092",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "7762fe9d47e9a0c1",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "2e4eaa99850a88c5",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "730594b523e10d48",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "0467511024824a6e",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "2f5882e1c65861d9",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "a0c02ffb985b55cb",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b26f15452a954a4a",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "91e075882dc2a709",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "e519b2f5de228b95",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "29e398d40b8fcbb5",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "c38a8650cf37b05e",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "99134b94c4c86ce5",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "8d8374a5203550ca",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "c77677f275b68710",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "adcad27641d3fe49",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "77e6ec4ee6d50514",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "22627ffce220354f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "5ad5eb3d7110b564",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "49f7cfecbd361e31",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "aa7b83040e94c21a",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "c933c69666b40bda",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "d1c2ea10712bef27",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "a9fbb3e18d339f34",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "6978ca20115e0386",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "cc0cbc3c36218c99",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "01d8411ae3992fe1",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "4cfbf095c1d4898b",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "74add33afa87b96f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "1c99150b76fa6459",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "c10598cd1a68d618",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b5184b3ddae7b86c",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "32ad68178d134d28",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "9496bc0c448199d5",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "94f10130ffe739b4",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "318184beba984c91",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "ae4cfa9541ce883a",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "6c0166d48144a963",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "ff602aad96003615",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "f862e30b925bbcb4",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "66130e7d59fe971b",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "1cd313fef4dca47a",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "f53e4a4d65e74dd7",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "d625627d9229a140",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "856754b89be1c7ad",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "2bf7b4a22281356f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "76d96363c821038e",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "a8d3b5026582d56b",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "72dca9d0ae1c19a4",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "423325e0388f98f0",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "3a7acb50e958bc96",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "975ce0fe6075b931",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "696e35a9a65c0d25",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "dd5b4f174139e484",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "d375ed5bf2c7d1c6",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "400e7229048287ae",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "8d9d0cd9c7729574",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "e8f11a5977df26f4",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "6bc431fad3b96a88",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "2a919b45809a9e23",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "5d5327a88e01e113",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "f266fbd9b062cc38",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "598296f1a6b10a45",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "dbd0088731dac82f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "7421e08646c8879e",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "4693082b7715b631",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "75a2a3ed15be5f23",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "35db78a870faa6be",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "9ccde17e9b0c1631",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "bfe74fb369094ce4",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "f085216ad5065689",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "77ac27c4da24dfad",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "eb230cff2cfc477f",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "c39b6e9e8f75520d",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "4df00cb53790514a",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "147b779a575c3351",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "4bd84b8c2493458c",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "7054ad48a005635c",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b4177974310aae90",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "aeb5a3b8e92ee024",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "174964c638fdcf17",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "f7b915204037b87b",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "3404a89a61826c55",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b82f09f7ad8a7b52",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "39d676d900fec3f4",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "622df581d48eab3c",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "69a6c626de21260e",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "9a2936490fa80db8",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "532d72cdadc621d1",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "d09b62711cf47bf0",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "ed8baca00db4b2a6",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "13c434ba876dae0a",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "fd9ac99d51407659",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "255ed406e7c40511",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b94b5aa829f7155b",
+      "sourcePath": "新思想/2022年新毛概知识点及选择题.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "a2cde5428c01712a",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "f838c23f71f3e02f",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "bbbd4f14d2e3a640",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "072891a1f98cb16d",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "250c6393fd386215",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "ba695b848a811634",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "06b2d6d0b7c3a5e0",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "ab19c395fac77187",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "5a37bd62b63061e9",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "763d1ee38f1921ee",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "ee9c240018f64895",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "796305e99fa18ecc",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "353222557030ba18",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "c36adb63e395b74b",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "e43c4e1b0dd99acd",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "992b5f174cfa16ad",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b3e48753d7bc34a1",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "3ab50355a5b29b4f",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "a2390bfd78c7f463",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "46a79cd5a6ae5e88",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "17f0899f4c9072df",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "062ee20d13acff86",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "54e4e2fe6cc1a2e1",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "22ad38f93a24dd53",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "76f058942a82a47b",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "6a80eb3374632a98",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "d197c3d3e556a68d",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "6ab1ce8e79534ff1",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "3aebc267b948a7af",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "ceae6e29ab642303",
+      "sourcePath": "新思想/简答题.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "f5fa9697d38535ca",
+      "sourcePath": "模电/试卷1.docx",
+      "field": "stem",
+      "reason": "unsupported-image-format:.wmf"
+    },
+    {
+      "id": "2c4748438a3d16c5",
+      "sourcePath": "模电/试卷1.docx",
+      "field": "answer",
+      "reason": "unsupported-image-format:.wmf"
+    },
+    {
+      "id": "5f8c9cc956b07741",
+      "sourcePath": "模电/试卷2.docx",
+      "field": "option",
+      "reason": "unsupported-image-format:.wmf"
+    },
+    {
+      "id": "5e314ef7d93005ee",
+      "sourcePath": "模电/试卷2.docx",
+      "field": "stem",
+      "reason": "unsupported-image-format:.wmf"
+    },
+    {
+      "id": "a7a74b19fab62908",
+      "sourcePath": "模电/试卷3.docx",
+      "field": "stem",
+      "reason": "unsupported-image-format:.wmf"
+    },
+    {
+      "id": "2ced511d786dc3be",
+      "sourcePath": "模电/试卷4.docx",
+      "field": "option",
+      "reason": "unsupported-image-format:.wmf"
+    },
+    {
+      "id": "ebecf1e82b467e8a",
+      "sourcePath": "模电/试卷4.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "b8859a0332186d85",
+      "sourcePath": "模电/试卷5.docx",
+      "field": "stem",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "e43c580cc5e7490c",
+      "sourcePath": "模电/试卷5.docx",
+      "field": "option",
+      "reason": "unsupported-source-object"
+    },
+    {
+      "id": "e43c580cc5e7490c",
+      "sourcePath": "模电/试卷5.docx",
+      "field": "option",
+      "reason": "unsupported-source-object"
+    },
+    {
+      "id": "e43c580cc5e7490c",
+      "sourcePath": "模电/试卷5.docx",
+      "field": "option",
+      "reason": "unsupported-source-object"
+    },
+    {
+      "id": "e43c580cc5e7490c",
+      "sourcePath": "模电/试卷5.docx",
+      "field": "option",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "7e17cd662bb84f54",
+      "sourcePath": "毛 概/2022毛中特概论复习题/第十一章.docx",
+      "field": "answer",
+      "reason": "no-unique-exact-match"
+    },
+    {
+      "id": "f91ee96452f60188",
+      "sourcePath": "自控原理+控制理论/自控原理近四年试卷整理/5.2019-2020学年-自动控制原理-A卷.docx",
+      "field": "stem",
+      "reason": "unsupported-image-format:.wmf"
+    },
+    {
+      "id": "348829a55e1a3167",
+      "sourcePath": "自控原理+控制理论/自控原理近四年试卷整理/5.2019-2020学年-自动控制原理-A卷.docx",
+      "field": "stem",
+      "reason": "unsupported-image-format:.wmf"
+    },
+    {
+      "id": "7e71353b9d124294",
+      "sourcePath": "自控原理+控制理论/自控原理近四年试卷整理/6.2019-2020学年-自动控制原理-B卷.docx",
+      "field": "stem",
+      "reason": "unsupported-image-format:.wmf"
+    },
+    {
+      "id": "2f6b9dde07c80daa",
+      "sourcePath": "自控原理+控制理论/自控原理近四年试卷整理/6.2019-2020学年-自动控制原理-B卷.docx",
+      "field": "stem",
+      "reason": "unsupported-image-format:.wmf"
+    },
+    {
+      "id": "f6cdedd0633d3adf",
+      "sourcePath": "自控原理+控制理论/自控原理近四年试卷整理/6.2019-2020学年-自动控制原理-B卷.docx",
+      "field": "stem",
+      "reason": "unsupported-image-format:.wmf"
+    },
+    {
+      "id": "bbcc14e6fc3d061b",
+      "sourcePath": "自控原理+控制理论/自控原理近四年试卷整理/6.2019-2020学年-自动控制原理-B卷.docx",
+      "field": "stem",
+      "reason": "unsupported-image-format:.emf"
+    },
+    {
+      "id": "ee8d4ee65106657b",
+      "sourcePath": "自控原理+控制理论/自控原理近四年试卷整理/6.2019-2020学年-自动控制原理-B卷.docx",
+      "field": "stem",
+      "reason": "unsupported-image-format:.wmf"
+    }
+  ],
+  "issueCounts": {
+    "no-unique-exact-match": 270,
+    "unsupported-image-format:.wmf": 12,
+    "unsupported-source-object": 3,
+    "unsupported-image-format:.emf": 1
+  },
+  "notes": [
+    "只接受规范化空白和字符宽度后的唯一原文匹配，不猜测图片公式。",
+    "原id、stem、answer、选项标签和文本保持不变；只增加rich字段。",
+    "无法渲染的媒体、部分公式范围、缺失对象保留原文并记入报告。"
+  ]
+}

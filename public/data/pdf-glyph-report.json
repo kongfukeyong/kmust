@@ -1,0 +1,5357 @@
+{
+  "items": [
+    {
+      "id": "efe8d5c1a7c2d22f",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "1dee48963f35a62d",
+      "mode": "verified-mathml",
+      "page": 1
+    },
+    {
+      "id": "64ca289f53d6f4c8",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        320.45,
+        595.36,
+        410.65
+      ]
+    },
+    {
+      "id": "5683f970a8e465a2",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "8cb9dc935d7e232b",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "18da78923ca7ffe7",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        80.11,
+        595.36,
+        211.48
+      ]
+    },
+    {
+      "id": "fedd39040ee64f69",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "0d88fa22326de8f7",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        447.699,
+        595.36,
+        501.89
+      ]
+    },
+    {
+      "id": "7414fff7454d1538",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        501.89,
+        595.36,
+        601.89
+      ]
+    },
+    {
+      "id": "625137fddc30d3c9",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        98.41,
+        595.36,
+        148.415
+      ]
+    },
+    {
+      "id": "cf0e786e1ad3b313",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        148.415,
+        595.36,
+        216.2
+      ]
+    },
+    {
+      "id": "e3042eaae9c897bb",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "8534ddc6218188e6",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "00978afb67c6fde5",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        419.74,
+        595.36,
+        501.364
+      ]
+    },
+    {
+      "id": "4089edc63d326461",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "08b76904d12061d6",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "6c95631b10643be7",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        669.932,
+        595.36,
+        744.849
+      ]
+    },
+    {
+      "id": "773f5ca6af0ee4a6",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "b2451957558dac80",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        250.46,
+        595.36,
+        567.3
+      ]
+    },
+    {
+      "id": "dcf5ec9df95f3c49",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "question-region-too-short",
+      "bbox": null
+    },
+    {
+      "id": "7f0bc31134b6407b",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "34ed903d0f7cbad2",
+      "sourcePath": "大学物理/大物习题册及答案/第一章 质点运动学含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "98a4900774378d9c",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        142.351,
+        595.2,
+        261.119
+      ]
+    },
+    {
+      "id": "2c7065f98395cb2c",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        261.119,
+        595.2,
+        409.489
+      ]
+    },
+    {
+      "id": "cf54ab513c586d6a",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        409.489,
+        595.2,
+        546.57
+      ]
+    },
+    {
+      "id": "8dad5725cda1d6c5",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "2afaff4e6d8426ac",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        77.339,
+        595.2,
+        247.039
+      ]
+    },
+    {
+      "id": "0fea6e0fd2b4e395",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        247.039,
+        595.2,
+        379.242
+      ]
+    },
+    {
+      "id": "d8e34fb0bb71982d",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        379.242,
+        595.2,
+        504.549
+      ]
+    },
+    {
+      "id": "0cc0091712cd36f5",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "a11b17f7de1502f8",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "5841abfbd1ef35a2",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        291.43,
+        595.2,
+        363.071
+      ]
+    },
+    {
+      "id": "35416cbf3283064c",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "555b66c17945440e",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        78.669,
+        595.2,
+        215.999
+      ]
+    },
+    {
+      "id": "63cf109635e8a6e3",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        493.405,
+        595.2,
+        539.521
+      ]
+    },
+    {
+      "id": "348a385c53bb9b07",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "237fbfa2524b7f53",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 5,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        90.445,
+        595.2,
+        122.281
+      ]
+    },
+    {
+      "id": "a6b26b6d076bd6e0",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 5,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        160.441,
+        595.2,
+        215.602
+      ]
+    },
+    {
+      "id": "aa818a5f009c0672",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 5,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        215.602,
+        595.2,
+        333.629
+      ]
+    },
+    {
+      "id": "a033f959c6e3bf4c",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 5,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        442.629,
+        595.2,
+        528.579
+      ]
+    },
+    {
+      "id": "d6b354cef0336631",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 5,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        528.579,
+        595.2,
+        597.939
+      ]
+    },
+    {
+      "id": "b38d62c68cb3704b",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 5,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        597.939,
+        595.2,
+        681.795
+      ]
+    },
+    {
+      "id": "12e2100156a57c16",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "1006dbda95ba9674",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 6,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        78.669,
+        595.2,
+        124.889
+      ]
+    },
+    {
+      "id": "6267fab94443434b",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 6,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        124.889,
+        595.2,
+        263.759
+      ]
+    },
+    {
+      "id": "f43ea57f261ee464",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 6,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        263.759,
+        595.2,
+        322.589
+      ]
+    },
+    {
+      "id": "23ae2cb67aaa06a2",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 6,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        455.109,
+        595.2,
+        501.909
+      ]
+    },
+    {
+      "id": "0396c923f5212603",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 6,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        550.889,
+        595.2,
+        627.998
+      ]
+    },
+    {
+      "id": "c18e33d9f3cf81fa",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 6,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        627.998,
+        595.2,
+        692.211
+      ]
+    },
+    {
+      "id": "807f5a6599dc9c54",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "d4b3d10c81e27eae",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 7,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "02fcc5c49835ce7b",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 7,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "3c03256dd80eccf9",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 8,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "29020dc3681e014e",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "nonconsecutive-next-label",
+      "bbox": null
+    },
+    {
+      "id": "7b9fcd8c2d726659",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "800f5d01de462200",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "stem-anchor-not-in-crop",
+      "bbox": null
+    },
+    {
+      "id": "df0c4c793514ae4f",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "question-region-too-short",
+      "bbox": null
+    },
+    {
+      "id": "a63e523b2715cab3",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "stem-anchor-not-in-crop",
+      "bbox": null
+    },
+    {
+      "id": "0214c230c916c836",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "33a460c046b18d87",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "16068e4e214e0165",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "stem-anchor-not-in-crop",
+      "bbox": null
+    },
+    {
+      "id": "2546c1a376bc8268",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "nonconsecutive-next-label",
+      "bbox": null
+    },
+    {
+      "id": "d48b709a6b882f93",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "ee014d4c6fcfd7c8",
+      "sourcePath": "大学物理/大物习题册及答案/第七章 静电场中的导体和电介质含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "697459ccd5129cea",
+      "sourcePath": "大学物理/大物习题册及答案/第三章 功和能含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        133.771,
+        595.32,
+        215.491
+      ]
+    },
+    {
+      "id": "1d8c4fe3403108c0",
+      "sourcePath": "大学物理/大物习题册及答案/第三章 功和能含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        285.721,
+        595.32,
+        401.969
+      ]
+    },
+    {
+      "id": "28bac85bd2dbd7ea",
+      "sourcePath": "大学物理/大物习题册及答案/第三章 功和能含答案.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "860fd753797721a3",
+      "sourcePath": "大学物理/大物习题册及答案/第三章 功和能含答案.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "e6cbbc34649160e5",
+      "sourcePath": "大学物理/大物习题册及答案/第三章 功和能含答案.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        75.071,
+        595.32,
+        184.291
+      ]
+    },
+    {
+      "id": "d9f18b5022014ad9",
+      "sourcePath": "大学物理/大物习题册及答案/第三章 功和能含答案.pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        172.291,
+        595.32,
+        246.691
+      ]
+    },
+    {
+      "id": "41f3136fde689586",
+      "sourcePath": "大学物理/大物习题册及答案/第三章 功和能含答案.pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        343.921,
+        595.32,
+        402.721
+      ]
+    },
+    {
+      "id": "204af37fa60e19eb",
+      "sourcePath": "大学物理/大物习题册及答案/第三章 功和能含答案.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "nonconsecutive-next-label",
+      "bbox": null
+    },
+    {
+      "id": "f2354969a7e0275b",
+      "sourcePath": "大学物理/大物习题册及答案/第三章 功和能含答案.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "c6221afbb793a30d",
+      "sourcePath": "大学物理/大物习题册及答案/第三章 功和能含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        75.071,
+        595.32,
+        265.921
+      ]
+    },
+    {
+      "id": "082dcd077e3be9bd",
+      "sourcePath": "大学物理/大物习题册及答案/第三章 功和能含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        265.921,
+        595.32,
+        479.507
+      ]
+    },
+    {
+      "id": "abba8ef974119c74",
+      "sourcePath": "大学物理/大物习题册及答案/第三章 功和能含答案.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "7aff84b8ac462afc",
+      "sourcePath": "大学物理/大物习题册及答案/第三章 功和能含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "2f937ff739bf32d4",
+      "sourcePath": "大学物理/大物习题册及答案/第三章 功和能含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "90337722aab4f7d3",
+      "sourcePath": "大学物理/大物习题册及答案/第三章 功和能含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "6e80c84220f3b5d4",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        117.85,
+        595.5,
+        228.66
+      ]
+    },
+    {
+      "id": "c880743f5fceac5b",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        228.66,
+        595.5,
+        320.15
+      ]
+    },
+    {
+      "id": "01bc74a8f2574841",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        320.15,
+        595.5,
+        445.4
+      ]
+    },
+    {
+      "id": "9ffd30e08392ecd9",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        445.4,
+        595.5,
+        581.183
+      ]
+    },
+    {
+      "id": "01e9b5c2febe700b",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "bc7c6b24fa27c596",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        78.061,
+        595.5,
+        156.881
+      ]
+    },
+    {
+      "id": "cdfb198e597d9fa7",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        156.881,
+        595.5,
+        255.2
+      ]
+    },
+    {
+      "id": "624e7daeec67b8f8",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "94278abccc62f089",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        539.137,
+        595.5,
+        608.933
+      ]
+    },
+    {
+      "id": "90d2c8264c61edca",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "3b71f8792c676fcf",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        72.061,
+        595.5,
+        201.15
+      ]
+    },
+    {
+      "id": "107952f59c627f26",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "16769e9237a08f18",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "16febe0cf9fc11cc",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        87.08,
+        595.5,
+        229.753
+      ]
+    },
+    {
+      "id": "3b018d86b09f4a44",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        229.753,
+        595.5,
+        310.437
+      ]
+    },
+    {
+      "id": "f1d3c3b40fe92b68",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        310.437,
+        595.5,
+        388.831
+      ]
+    },
+    {
+      "id": "bd67d5373a05127d",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        388.831,
+        595.5,
+        440.66
+      ]
+    },
+    {
+      "id": "cf1869d3c7e5643c",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        440.66,
+        595.5,
+        520.21
+      ]
+    },
+    {
+      "id": "4352a79774cb294c",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "6336c42c0fea939f",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "300f1dcf3d63b2f6",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 5,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        212.095,
+        595.5,
+        282.65
+      ]
+    },
+    {
+      "id": "e640492860b7537b",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "e4709566a4b6f9f3",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 5,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        329.53,
+        595.5,
+        400.081
+      ]
+    },
+    {
+      "id": "ade3c3b2228e2e9b",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 5,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        400.081,
+        595.5,
+        462.41
+      ]
+    },
+    {
+      "id": "344fc5f780fb5ba8",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 5,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        462.41,
+        595.5,
+        610.303
+      ]
+    },
+    {
+      "id": "f1f5e489a0ff8494",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "39a1d554bfae4643",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "cc28c911d90efefc",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "7fd777d20005d1f7",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "ebb1c5f57a90deb9",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 8,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "7260ad0cfc09bceb",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 8,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "b2bcc81e356b19f6",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "86c39ecbb288f7bc",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "dea0e51628d0f6f3",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "0b1fac6a87e004e7",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "b179f0f9e6d2624e",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "nonconsecutive-next-label",
+      "bbox": null
+    },
+    {
+      "id": "aa44ef9ccdd20547",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "21380e4fc618f3f6",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "baff0d45538f61f2",
+      "sourcePath": "大学物理/大物习题册及答案/第九章电磁感应含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "stem-anchor-not-in-crop",
+      "bbox": null
+    },
+    {
+      "id": "2d7b587857950f43",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        116.926,
+        595.36,
+        221.276
+      ]
+    },
+    {
+      "id": "455469ef14652a03",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        221.276,
+        595.36,
+        363.053
+      ]
+    },
+    {
+      "id": "71f7c67071ef621e",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        363.053,
+        595.36,
+        522.414
+      ]
+    },
+    {
+      "id": "770e997bf2fd3b92",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        522.414,
+        595.36,
+        689.714
+      ]
+    },
+    {
+      "id": "a7f8ff11ff820054",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        73.253,
+        595.36,
+        207.604
+      ]
+    },
+    {
+      "id": "657ed328fa4765c9",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        207.604,
+        595.36,
+        297.893
+      ]
+    },
+    {
+      "id": "93c2db9e14791201",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        384.172,
+        595.36,
+        473.783
+      ]
+    },
+    {
+      "id": "1a40dced5c3f71bd",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "nonconsecutive-next-label",
+      "bbox": null
+    },
+    {
+      "id": "1595c31c6d46e877",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "9de4812fa81d1e22",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "b2af68ad05ce1695",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        69.852,
+        595.36,
+        158.941
+      ]
+    },
+    {
+      "id": "fac66e8404f7b005",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "d9c3abe581462cbe",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "ca402c14926df4dd",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        76.45,
+        595.36,
+        292.911
+      ]
+    },
+    {
+      "id": "2d9ed572a4aa483c",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        292.911,
+        595.36,
+        535.952
+      ]
+    },
+    {
+      "id": "1056adfdba2fe51b",
+      "sourcePath": "大学物理/大物习题册及答案/第二章 牛顿运动定律含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "1dc46f0065b783a3",
+      "sourcePath": "大学物理/大物习题册及答案/第五章 刚体的转动含答案.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "3729351295f33bb6",
+      "sourcePath": "大学物理/大物习题册及答案/第五章 刚体的转动含答案.pdf",
+      "page": 5,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        536.684,
+        595.32,
+        636.489
+      ]
+    },
+    {
+      "id": "5fe33573e48da007",
+      "sourcePath": "大学物理/大物习题册及答案/第五章 刚体的转动含答案.pdf",
+      "page": 8,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "25e80523872e15de",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        108.904,
+        595.32,
+        247.934
+      ]
+    },
+    {
+      "id": "3455c0f71b821f57",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        247.934,
+        595.32,
+        371.805
+      ]
+    },
+    {
+      "id": "abbbf530cb201c10",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        69.837,
+        595.32,
+        246.719
+      ]
+    },
+    {
+      "id": "3ace2870f98b313b",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "a86b350bd4db516a",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "ea1c0cf7bc650cd9",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        163.796,
+        595.32,
+        371.635
+      ]
+    },
+    {
+      "id": "fb0376984d7de20c",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "74736625d78a4d9f",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "bd758651111ace74",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        77.704,
+        595.32,
+        265.851
+      ]
+    },
+    {
+      "id": "29b2476c25107e83",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        265.851,
+        595.32,
+        454.72
+      ]
+    },
+    {
+      "id": "dec752c49de9878a",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        454.72,
+        595.32,
+        633.301
+      ]
+    },
+    {
+      "id": "b1483e2a103f0b81",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "2039f3df59604516",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "753568bf7278ef0e",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "0db7eeb01f33a338",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 7,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "6669d488acabe5de",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 7,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "939917a46851b70d",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 7,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "f2f79e24c7a1f6f2",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 8,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "06076336cfab9922",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 11,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "c7eccc4a48ca0b2c",
+      "sourcePath": "大学物理/大物习题册及答案/第八章恒定电流的磁场习题含答案.pdf",
+      "page": 11,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "5e5f0406b9535e34",
+      "sourcePath": "大学物理/大物习题册及答案/第六章 静电场含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        338.699,
+        595.32,
+        477.991
+      ]
+    },
+    {
+      "id": "4bc615250efea0c3",
+      "sourcePath": "大学物理/大物习题册及答案/第六章 静电场含答案.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "d75d70de88119e95",
+      "sourcePath": "大学物理/大物习题册及答案/第六章 静电场含答案.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "63afceb43b67c5c6",
+      "sourcePath": "大学物理/大物习题册及答案/第六章 静电场含答案.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        73.498,
+        595.32,
+        245.1
+      ]
+    },
+    {
+      "id": "3e5973fcab0d849e",
+      "sourcePath": "大学物理/大物习题册及答案/第六章 静电场含答案.pdf",
+      "page": 5,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        76.618,
+        595.32,
+        323.1
+      ]
+    },
+    {
+      "id": "426af5a99fab276c",
+      "sourcePath": "大学物理/大物习题册及答案/第六章 静电场含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "0eb493f74528a128",
+      "sourcePath": "大学物理/大物习题册及答案/第六章 静电场含答案.pdf",
+      "page": 6,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        208.98,
+        595.32,
+        302.82
+      ]
+    },
+    {
+      "id": "eb64f00c3d02221a",
+      "sourcePath": "大学物理/大物习题册及答案/第六章 静电场含答案.pdf",
+      "page": 8,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        73.498,
+        595.32,
+        206.098
+      ]
+    },
+    {
+      "id": "cc616d85bb147112",
+      "sourcePath": "大学物理/大物习题册及答案/第六章 静电场含答案.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "959dc605c9b89946",
+      "sourcePath": "大学物理/大物习题册及答案/第六章 静电场含答案.pdf",
+      "page": 9,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        295.884,
+        595.32,
+        397.62
+      ]
+    },
+    {
+      "id": "c4d92f4f72e992e8",
+      "sourcePath": "大学物理/大物习题册及答案/第六章 静电场含答案.pdf",
+      "page": 13,
+      "mode": "page",
+      "reason": "question-region-too-short",
+      "bbox": null
+    },
+    {
+      "id": "70080df25e64e1cf",
+      "sourcePath": "大学物理/大物习题册及答案/第六章 静电场含答案.pdf",
+      "page": 13,
+      "mode": "page",
+      "reason": "question-region-too-short",
+      "bbox": null
+    },
+    {
+      "id": "f939c691f3b73e06",
+      "sourcePath": "大学物理/大物习题册及答案/第十五章 狭义相对论基础含答案.pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        70.978,
+        595.32,
+        152.687
+      ]
+    },
+    {
+      "id": "e5296eb2a4c7c456",
+      "sourcePath": "大学物理/大物习题册及答案/第十五章 狭义相对论基础含答案.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "8804b8abd7be5b13",
+      "sourcePath": "大学物理/大物习题册及答案/第四章 动量和角动量含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        282.465,
+        595.32,
+        398.329
+      ]
+    },
+    {
+      "id": "5ddcd0b4f4d088ae",
+      "sourcePath": "大学物理/大物习题册及答案/第四章 动量和角动量含答案.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        586.936,
+        595.32,
+        699.488
+      ]
+    },
+    {
+      "id": "9d6a8d9e5ce12a74",
+      "sourcePath": "大学物理/大物习题册及答案/第四章 动量和角动量含答案.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        78.529,
+        595.32,
+        182.698
+      ]
+    },
+    {
+      "id": "d3496af02b3ac44c",
+      "sourcePath": "大学物理/大物习题册及答案/第四章 动量和角动量含答案.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "64e46ec45edef7ac",
+      "sourcePath": "大学物理/大物习题册及答案/第四章 动量和角动量含答案.pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        79.009,
+        595.32,
+        158.014
+      ]
+    },
+    {
+      "id": "beae1cb1cacd0984",
+      "sourcePath": "大学物理/大物习题册及答案/第四章 动量和角动量含答案.pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        158.014,
+        595.32,
+        239.237
+      ]
+    },
+    {
+      "id": "f7db279c828b6aae",
+      "sourcePath": "大学物理/大物习题册及答案/第四章 动量和角动量含答案.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "06af2bb338e87428",
+      "sourcePath": "大学物理/大物习题册及答案/第四章 动量和角动量含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "e1ba03d61cce2be4",
+      "sourcePath": "大学物理/大物习题册及答案/第四章 动量和角动量含答案.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "568d2eb799ea9c2a",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "6e44a4709ae0cc15",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        137.739,
+        521.35,
+        234.699
+      ]
+    },
+    {
+      "id": "be9a6ff31ea89cbc",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        234.699,
+        521.35,
+        322.899
+      ]
+    },
+    {
+      "id": "fae49444573c81e3",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        322.899,
+        521.35,
+        447.699
+      ]
+    },
+    {
+      "id": "1f7479cc05278e55",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        447.699,
+        521.35,
+        553.059
+      ]
+    },
+    {
+      "id": "48681134e5c01904",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "c306f0dff9d74704",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "3ba04b3a4bcd098a",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "nonconsecutive-next-label",
+      "bbox": null
+    },
+    {
+      "id": "ecb7ac68ac462bef",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "efe3e4117c358c89",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        504.955,
+        521.35,
+        551.739
+      ]
+    },
+    {
+      "id": "22a21b63bde23aa3",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "802bbb19ad88571e",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "26e1c140b482feaf",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "cf6610b7a3ab082b",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "d4486bb43d8a11f1",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "b9df42eb17295fa5",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "nonconsecutive-next-label",
+      "bbox": null
+    },
+    {
+      "id": "14feec229e6655cb",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "628d6900acf0c527",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "c6f547146f7e300b",
+      "sourcePath": "大学物理/大物试卷/大物上/2014物理Ⅰ试卷（横）A1.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "863bcedf633ab22f",
+      "sourcePath": "大学物理/大物试卷/大物上/2015级大学物理(1)期末考卷Ａ卷(1).pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "4f6b928f457c98fa",
+      "sourcePath": "大学物理/大物试卷/大物上/2015级大学物理(1)期末考卷Ａ卷(1).pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "85400ed87701a002",
+      "sourcePath": "大学物理/大物试卷/大物上/2015级大学物理(1)期末考卷Ａ卷(1).pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "1e4553e7d3216da6",
+      "sourcePath": "大学物理/大物试卷/大物上/2015级大学物理(1)期末考卷Ａ卷(1).pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "8d6f20dc39b16f5a",
+      "sourcePath": "大学物理/大物试卷/大物上/2015级大学物理(1)期末考卷Ａ卷(1).pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "627ecdeddf4cb89f",
+      "sourcePath": "大学物理/大物试卷/大物上/2015级大学物理(1)期末考卷Ａ卷(1).pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "dcfa918ccb84ce14",
+      "sourcePath": "大学物理/大物试卷/大物上/2016级大学物理(1)期末考卷Ａ卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "0856e78b696e0f98",
+      "sourcePath": "大学物理/大物试卷/大物上/2016级大学物理(1)期末考卷Ａ卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "1ff41c82cea7ac7c",
+      "sourcePath": "大学物理/大物试卷/大物上/2016级大学物理(1)期末考卷Ａ卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "5dd86f7a018d52b5",
+      "sourcePath": "大学物理/大物试卷/大物上/2016级大学物理(1)期末考卷Ａ卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "88a39127810c103e",
+      "sourcePath": "大学物理/大物试卷/大物上/2016级大学物理(1)期末考卷Ａ卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "85c9373e2e859bf3",
+      "sourcePath": "大学物理/大物试卷/大物上/2016级大学物理(1)期末考卷Ａ卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "fff8ec4e2dd0c9bf",
+      "sourcePath": "大学物理/大物试卷/大物上/2016级大学物理(1)期末考卷Ａ卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "35b503bf24d431e7",
+      "sourcePath": "大学物理/大物试卷/大物上/2016级大学物理(1)期末考卷Ａ卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "5a406171cffd5e27",
+      "sourcePath": "大学物理/大物试卷/大物上/2016级大学物理(1)期末考卷Ａ卷.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "50b419b76fce15da",
+      "sourcePath": "大学物理/大物试卷/大物上/2017级大学物理(1)期末考A卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "4305b4cc5615f9f7",
+      "sourcePath": "大学物理/大物试卷/大物上/2017级大学物理(1)期末考A卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "911e967c9e23db70",
+      "sourcePath": "大学物理/大物试卷/大物上/2017级大学物理(1)期末考A卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "eb98995402f8e547",
+      "sourcePath": "大学物理/大物试卷/大物上/2017级大学物理(1)期末考A卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "220bd3ccb87d2c1f",
+      "sourcePath": "大学物理/大物试卷/大物上/2017级大学物理(1)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "e2696e52e6f4b282",
+      "sourcePath": "大学物理/大物试卷/大物上/2017级大学物理(1)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "3d5a6dde9c30afdb",
+      "sourcePath": "大学物理/大物试卷/大物上/2017级大学物理(1)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "13a3a704c8b2d2d3",
+      "sourcePath": "大学物理/大物试卷/大物上/2017级大学物理(1)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "5684594150dad6b1",
+      "sourcePath": "大学物理/大物试卷/大物上/2017级大学物理(1)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "8ca0194e14846f7f",
+      "sourcePath": "大学物理/大物试卷/大物上/2017级大学物理(1)期末考A卷.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "6e73222753d4619f",
+      "sourcePath": "大学物理/大物试卷/大物上/2018级大学物理(1)期末考A卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "68caa3457dc5afd5",
+      "sourcePath": "大学物理/大物试卷/大物上/2018级大学物理(1)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "e22731b79ad63587",
+      "sourcePath": "大学物理/大物试卷/大物上/2019级大学物理B(1)期末考A卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "242d7697c7c53b92",
+      "sourcePath": "大学物理/大物试卷/大物上/2019级大学物理B(1)期末考A卷.pdf",
+      "page": 4,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        124.651,
+        595.32,
+        198.931
+      ]
+    },
+    {
+      "id": "b7e03da44dddca94",
+      "sourcePath": "大学物理/大物试卷/大物上/2019级大学物理B(1)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "4cdbbe04444be6ac",
+      "sourcePath": "大学物理/大物试卷/大物上/2019级大学物理B(1)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "554cd3f53d969f76",
+      "sourcePath": "大学物理/大物试卷/大物上/2019级大学物理B(1)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "ae5b34e1d932e5b5",
+      "sourcePath": "大学物理/大物试卷/大物上/2019级大学物理B(1)期末考A卷.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "bfd4ea76ca1ab09e",
+      "sourcePath": "大学物理/大物试卷/大物上/2019级大学物理B(1)期末考A卷.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "01857cf943580f74",
+      "sourcePath": "大学物理/大物试卷/大物上/2020级大学物理B(1)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "df84aa869082ffb4",
+      "sourcePath": "大学物理/大物试卷/大物上/2020级大学物理B(1)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "53291b7751037b02",
+      "sourcePath": "大学物理/大物试卷/大物上/2020级大学物理B(1)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "f6a371417a79bd25",
+      "sourcePath": "大学物理/大物试卷/大物上/2021级大学物理B(1)期末考A卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "aa67f90aa4910325",
+      "sourcePath": "大学物理/大物试卷/大物上/2021级大学物理B(1)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "09ebea2d2fdd42b5",
+      "sourcePath": "大学物理/大物试卷/大物上/2021级大学物理B(1)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "886b7c6ccaac333c",
+      "sourcePath": "大学物理/大物试卷/大物上/2021级大学物理B(1)期末考A卷.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "19b12ab13400e03b",
+      "sourcePath": "大学物理/大物试卷/大物下/2015级大学物理(2)期末考卷（A卷）.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "6fe3a1894f82d561",
+      "sourcePath": "大学物理/大物试卷/大物下/2015级大学物理(2)期末考卷（A卷）.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "877637721989d936",
+      "sourcePath": "大学物理/大物试卷/大物下/2015级大学物理(2)期末考卷（A卷）.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "c55b0db899b294d0",
+      "sourcePath": "大学物理/大物试卷/大物下/2016级大物2期末A卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "58d580333dcb5487",
+      "sourcePath": "大学物理/大物试卷/大物下/2016级大物2期末A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "7bab5cb0cc273594",
+      "sourcePath": "大学物理/大物试卷/大物下/2016级大物2期末A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "362749e243db1bfb",
+      "sourcePath": "大学物理/大物试卷/大物下/2016级大物2期末A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "2a02677257815747",
+      "sourcePath": "大学物理/大物试卷/大物下/2016级大物2期末A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "f9151631aa158009",
+      "sourcePath": "大学物理/大物试卷/大物下/2016级大物2期末A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "e31cc914dd1ce3c8",
+      "sourcePath": "大学物理/大物试卷/大物下/2016级大物2期末A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "98b3fa70122d48b8",
+      "sourcePath": "大学物理/大物试卷/大物下/2016级大物2期末A卷.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "67e1bb58fb39eff8",
+      "sourcePath": "大学物理/大物试卷/大物下/2017级大学物理(2)期末考A卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "68331e406ca6caa0",
+      "sourcePath": "大学物理/大物试卷/大物下/2017级大学物理(2)期末考A卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "aa038a70ffb8b4a2",
+      "sourcePath": "大学物理/大物试卷/大物下/2017级大学物理(2)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "6861407b487b3642",
+      "sourcePath": "大学物理/大物试卷/大物下/2017级大学物理(2)期末考A卷.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "24c2bd2997400f4b",
+      "sourcePath": "大学物理/大物试卷/大物下/2018级物理A2试卷A.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "ad6fdcc00465a873",
+      "sourcePath": "大学物理/大物试卷/大物下/2018级物理A2试卷A.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "3cfeea78abc8a38e",
+      "sourcePath": "大学物理/大物试卷/大物下/2018级物理A2试卷A.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "ccd7303ac476bf87",
+      "sourcePath": "大学物理/大物试卷/大物下/2018级物理A2试卷A.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "ac96f184878a25f1",
+      "sourcePath": "大学物理/大物试卷/大物下/2018级物理A2试卷A.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "475ce21b7941ed9c",
+      "sourcePath": "大学物理/大物试卷/大物下/2018级物理A2试卷A.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "5645c378e39648fb",
+      "sourcePath": "大学物理/大物试卷/大物下/2018级物理A2试卷A.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "3bd784544e3b3b59",
+      "sourcePath": "大学物理/大物试卷/大物下/2018级物理A2试卷A.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "7c6ddb140193be25",
+      "sourcePath": "大学物理/大物试卷/大物下/2018级物理A2试卷A.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "103b5143419800d4",
+      "sourcePath": "大学物理/大物试卷/大物下/2019级大学物理A(2)期末考A卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "c95510f9654ca7f7",
+      "sourcePath": "大学物理/大物试卷/大物下/2019级大学物理A(2)期末考A卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "a93fa3d5f68ab8a6",
+      "sourcePath": "大学物理/大物试卷/大物下/2019级大学物理A(2)期末考A卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "ac2b1510f185acb9",
+      "sourcePath": "大学物理/大物试卷/大物下/2019级大学物理A(2)期末考A卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "ddb7c2735d7465a3",
+      "sourcePath": "大学物理/大物试卷/大物下/2019级大学物理A(2)期末考A卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "e78a0d46dee9bcfe",
+      "sourcePath": "大学物理/大物试卷/大物下/2019级大学物理A(2)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "40819178d88209f6",
+      "sourcePath": "大学物理/大物试卷/大物下/2019级大学物理A(2)期末考A卷.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "061e2413a6183d30",
+      "sourcePath": "大学物理/大物试卷/大物下/2019级大学物理A(2)期末考A卷.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "d21d347bca2face0",
+      "sourcePath": "大学物理/大物试卷/大物下/2019级大学物理A(2)期末考A卷.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "0e08e25c01af7d2d",
+      "sourcePath": "大学物理/大物试卷/大物下/2020级大学物理A(2)期末考卷（A卷）.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "1b564b7a501f49fc",
+      "sourcePath": "大学物理/大物试卷/大物下/2020级大学物理A(2)期末考卷（A卷）.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "6eb46276ed772b5c",
+      "sourcePath": "大学物理/大物试卷/大物下/2020级大学物理A(2)期末考卷（A卷）.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "3f155ad49144ae53",
+      "sourcePath": "大学物理/大物试卷/大物下/2020级大学物理A(2)期末考卷（A卷）.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "0f130ee9ba536a03",
+      "sourcePath": "大学物理/大物试卷/大物下/2020级大学物理A(2)期末考卷（A卷）.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "4626cfe2433c01f1",
+      "sourcePath": "大学物理/大物试卷/大物下/2020级大学物理A(2)期末考卷（A卷）.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "f8825465c54870eb",
+      "sourcePath": "大学物理/大物试卷/大物下/2021级大学物理A(2)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "2a0fdfac6f695005",
+      "sourcePath": "大学物理/大物试卷/大物下/2021级大学物理A(2)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "fd7147c115c757c6",
+      "sourcePath": "大学物理/大物试卷/大物下/2021级大学物理A(2)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "89a4c0f968d662a5",
+      "sourcePath": "大学物理/大物试卷/大物下/2021级大学物理A(2)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "2dee10e651941701",
+      "sourcePath": "大学物理/大物试卷/大物下/2021级大学物理A(2)期末考A卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "1b9800b1c60372d9",
+      "sourcePath": "大学物理/大物试卷/大物下/2021级大学物理A(2)期末考A卷.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "6a4d96dfc9face04",
+      "sourcePath": "大学物理/大物试卷/大物下/2021级大学物理A(2)期末考A卷.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "7440958faf2f3061",
+      "sourcePath": "数据库与数据仓库/2012数据库系统原理A卷.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        420.711,
+        515.95,
+        635.151
+      ]
+    },
+    {
+      "id": "c03abe790b0b4f9e",
+      "sourcePath": "数据库与数据仓库/2015数据库系统原理A卷.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        377.751,
+        515.95,
+        494.751
+      ]
+    },
+    {
+      "id": "dce7d2204ce1c9ae",
+      "sourcePath": "数据库与数据仓库/2021-2022下数据库原理试卷A卷 .pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        508.551,
+        595.3,
+        655.551
+      ]
+    },
+    {
+      "id": "bcebfcea7cb9ab0c",
+      "sourcePath": "数据库与数据仓库/数据库      模拟试题.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        522.111,
+        595.3,
+        601.983
+      ]
+    },
+    {
+      "id": "9b533c2942aea2bb",
+      "sourcePath": "数据库与数据仓库/数据库      模拟试题.pdf",
+      "page": 11,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        402.959,
+        595.3,
+        444.111
+      ]
+    },
+    {
+      "id": "f835a3945ba48c16",
+      "sourcePath": "数据库与数据仓库/数据库      模拟试题.pdf",
+      "page": 18,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "2058a859d92429b3",
+      "sourcePath": "数据库与数据仓库/数据库      模拟试题.pdf",
+      "page": 19,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        537.711,
+        595.3,
+        709.311
+      ]
+    },
+    {
+      "id": "6edd5b9c89ff6771",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 17,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        478.319,
+        595.32,
+        519.239
+      ]
+    },
+    {
+      "id": "95f53a1c4d5dfeba",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 18,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        138.549,
+        595.32,
+        193.029
+      ]
+    },
+    {
+      "id": "f412848f82613fbb",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 19,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "41f5873156a47228",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 20,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "e910deb48a0e0657",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 20,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "2034e58e01979f7e",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 21,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "223abb21706e0f64",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 21,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        302.019,
+        595.32,
+        615.239
+      ]
+    },
+    {
+      "id": "8db2f8b22b51a5fe",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 21,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        615.239,
+        595.32,
+        737.785
+      ]
+    },
+    {
+      "id": "8bd58bcb3ffa7022",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 22,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "390f5eeabcb03c73",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 23,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "d4c5ecf96add46bd",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 23,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "4252564297efee33",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 26,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "54802a99b7e9064e",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 29,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "c7208e555175c561",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 41,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        438.219,
+        595.32,
+        492.719
+      ]
+    },
+    {
+      "id": "864e187bdf48a313",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 42,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "5c735b69a28769a0",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 44,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        111.309,
+        595.32,
+        233.949
+      ]
+    },
+    {
+      "id": "5924913f236c26ef",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 50,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "6fafae02f6a2db76",
+      "sourcePath": "数据库与数据仓库/数据库原理与应用试题库.pdf",
+      "page": 51,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "e50fee60e4325ac5",
+      "sourcePath": "概统/2018/2018级概统A,A卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "stem-anchor-not-in-crop",
+      "bbox": null
+    },
+    {
+      "id": "18a26cf1ae3bcc3e",
+      "sourcePath": "概统/2018/2018级概统A,A卷.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        327.499,
+        521.65,
+        390.22
+      ]
+    },
+    {
+      "id": "a083be95c289b98d",
+      "sourcePath": "概统/2018/2018级概统A,A卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "2c280099261cb059",
+      "sourcePath": "概统/2018/2018级概统A,A卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "118d3daa934a1692",
+      "sourcePath": "概统/2018/2018级概统A,A卷.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        453.182,
+        521.65,
+        484.982
+      ]
+    },
+    {
+      "id": "2057337c1c7b5229",
+      "sourcePath": "概统/2018/2018级概统A,A卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "141f118dbdf2bf10",
+      "sourcePath": "概统/2018/2018级概统A,A卷.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        546.128,
+        521.65,
+        624.182
+      ]
+    },
+    {
+      "id": "7d089fc56ff17aa0",
+      "sourcePath": "概统/2018/2018级概统A,A卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "57a83495ec01478e",
+      "sourcePath": "概统/2019/2019级概统A,A卷.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        308.342,
+        521.65,
+        370.622
+      ]
+    },
+    {
+      "id": "14732eefc1e3dba3",
+      "sourcePath": "概统/2019/2019级概统A,A卷.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        370.622,
+        521.65,
+        399.787
+      ]
+    },
+    {
+      "id": "72924c7694b6ca73",
+      "sourcePath": "概统/2019/2019级概统A,A卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "0d24463e70e2318e",
+      "sourcePath": "概统/2019/2019级概统A,A卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "stem-anchor-not-in-crop",
+      "bbox": null
+    },
+    {
+      "id": "0866c75ac91d22d8",
+      "sourcePath": "概统/2019/2019级概统A,A卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "12c33c09a09ab0b4",
+      "sourcePath": "概统/2019/2019级概统A,A卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "900570544a7ab523",
+      "sourcePath": "概统/2019/2019级概统A,A卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "cd6d05dcbcbab4da",
+      "sourcePath": "概统/2019/2019级概统A,A卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "3c56baa31cf4610a",
+      "sourcePath": "概统/2021/2021级概率统计阶段测试卷.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        274.298,
+        595.3,
+        310.578
+      ]
+    },
+    {
+      "id": "1b7a8787cdffc631",
+      "sourcePath": "概统/2021/2021级概率统计阶段测试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "7df5aa0a6496e834",
+      "sourcePath": "概统/2021/2021级概率统计阶段测试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "70eda1b06843c33f",
+      "sourcePath": "概统/2021/2021级概率统计阶段测试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "6332ec2ac71da010",
+      "sourcePath": "概统/2021/2021级概率统计阶段测试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "29c0b13756018a5f",
+      "sourcePath": "概统/2021/2021级概率统计阶段测试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "259e42f9bb573e0f",
+      "sourcePath": "概统/2021/2021级概率统计阶段测试卷.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        550.178,
+        595.3,
+        614.57
+      ]
+    },
+    {
+      "id": "c7a54443210e4534",
+      "sourcePath": "概统/2021/2021级概率统计阶段测试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "71fc00fb7267cdb6",
+      "sourcePath": "概统/2021/2021级概率统计阶段测试卷.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        671.582,
+        595.3,
+        721.803
+      ]
+    },
+    {
+      "id": "b0e73def17950566",
+      "sourcePath": "概统/2021/2021级概率统计阶段测试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "421ce2de1e98af5f",
+      "sourcePath": "概统/2021/2021级概率统计阶段测试卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "c75a376851499e0c",
+      "sourcePath": "概统/2021/2021级概率统计阶段测试卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "a07c039f9617df86",
+      "sourcePath": "概统/2021/2021级概率统计阶段测试卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "720cb117d91f34b9",
+      "sourcePath": "概统/2021/2021级概率统计阶段测试卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "b082a967af1e0bbe",
+      "sourcePath": "电力系统稳态分析/1_电力系统分析（1）习题集.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        216.472,
+        595.3,
+        271.072
+      ]
+    },
+    {
+      "id": "cb664c28d5091a2b",
+      "sourcePath": "电力系统稳态分析/1_电力系统分析（1）习题集.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "89e1e759d9990786",
+      "sourcePath": "电力系统稳态分析/1_电力系统分析（1）习题集.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "f08f5f32fd960047",
+      "sourcePath": "电力系统稳态分析/1_电力系统分析（1）习题集.pdf",
+      "page": 6,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        500.944,
+        595.3,
+        547.744
+      ]
+    },
+    {
+      "id": "c9997334c29da33f",
+      "sourcePath": "电力系统稳态分析/1_电力系统分析（1）习题集.pdf",
+      "page": 7,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "b24ad160391c8ebd",
+      "sourcePath": "电力系统稳态分析/1_电力系统分析（1）习题集.pdf",
+      "page": 8,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        547.744,
+        595.3,
+        610.144
+      ]
+    },
+    {
+      "id": "1168af89b2d1c813",
+      "sourcePath": "电力系统稳态分析/1_电力系统分析（1）习题集.pdf",
+      "page": 8,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "34d98211d5c8fcf8",
+      "sourcePath": "电力系统稳态分析/1_电力系统分析（1）习题集.pdf",
+      "page": 11,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        123.592,
+        595.3,
+        165.712
+      ]
+    },
+    {
+      "id": "03518605017912d0",
+      "sourcePath": "电力系统稳态分析/1_电力系统分析（1）习题集.pdf",
+      "page": 15,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "a72f6561802608ff",
+      "sourcePath": "电力系统稳态分析/1_电力系统分析（1）习题集.pdf",
+      "page": 16,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        54.832,
+        595.3,
+        200.872
+      ]
+    },
+    {
+      "id": "5acde842d63cb432",
+      "sourcePath": "电力系统稳态分析/1_电力系统分析（1）习题集.pdf",
+      "page": 16,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        254.392,
+        595.3,
+        364.311
+      ]
+    },
+    {
+      "id": "d2f66a9b0183b23c",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "adf08bff6c3dc78c",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "6288cb6286f311e1",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "cf8753960455f836",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "e31b613180973c11",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "d6f3950bfa90d31e",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "17a4cb355540b1e5",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "30e3983c85314580",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 5,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "02858bc95d2b1aa2",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "86f18b76760ba401",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 6,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "d26bcfcb8a0acddb",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 9,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "81993002f6a147ea",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 10,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "cfafe70f19ba6c5f",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 10,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "e81e1d5ee4f9d30b",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 10,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "393a72d2fe4d794b",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 11,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "e23fe58118bae103",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 12,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "28773652b375b920",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 12,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "5bfa709e6615e73f",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 14,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "fba6315339555caf",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 14,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "b59e32932559a23d",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 16,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "b37a946d673072f7",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 17,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "a442bc4434ff76a9",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 19,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "61f7b41af3608a76",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 19,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "f8df94068928112f",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 20,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "e57bc1cb5a576899",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 20,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "b94b20cbddcfb2cd",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 20,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "168f6eaf91c39aa2",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 23,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "2bc422a3003fe9d8",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 24,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "b8b1aaea510d7d17",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 25,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "83784e8d2d50ae6d",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 28,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "5423ef35690e8414",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 29,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "02b88ebffdc6b582",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 29,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "d76d0332afd578d8",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 30,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "9afef0bd187c457d",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 33,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "801ed2d4af949e2a",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 33,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "324d721499843a1c",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 34,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "380fddc8bf08b6ac",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 35,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "d79950efb7acb2e1",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 36,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "b72f4c13a4e1f7dd",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 37,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "32e4cf0d212139fe",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 37,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "de8f22cbdb192ce2",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 38,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "87b0e9253e211db6",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 38,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "b5f9edd10cf72016",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 39,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "573af9158385c0f2",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 40,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "3cc401a42f42a5fa",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 40,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "2cad5b46b3878ac2",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 41,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "16defd28a898950c",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 42,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "59fb65538ee9907b",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 43,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "f1a9a361c8708357",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 43,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "564270dc5e43fffe",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 43,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "afe80eba6ee31f23",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 44,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "3a3065062b19fa76",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 44,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "04db13eb2eed61ce",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 45,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "a5b67f33fd959b90",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 45,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "976ba0d27466a7ce",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 46,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "f2b68fef1cf11767",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 47,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "dcb394374dff72f5",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 48,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "c9a8a3979e3b49e6",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 49,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "f97d6273db95bd4e",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 49,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "ae41786d93b11499",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 49,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "f9ea1c97e31b21a4",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 51,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "5e30da2d44e88065",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 53,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "0adc79f11ef02113",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 54,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "ecefb24e75932881",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 55,
+      "mode": "page",
+      "reason": "unsupported-question-number",
+      "bbox": null
+    },
+    {
+      "id": "9d1f9cc5e66bef2e",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 56,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "b16769d62ac8d6fd",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 65,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "269bec68a3a5728d",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 73,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "278f8e4f26c1ce46",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 73,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "e957d845d8711b89",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 74,
+      "mode": "page",
+      "reason": "question-label-not-found",
+      "bbox": null
+    },
+    {
+      "id": "1cc960be27bd7d05",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 79,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        70.027,
+        595.32,
+        118.051
+      ]
+    },
+    {
+      "id": "8d1f628995994c95",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 80,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        522.497,
+        595.32,
+        554.901
+      ]
+    },
+    {
+      "id": "285edc67fadeed89",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 81,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        227.251,
+        595.32,
+        258.451
+      ]
+    },
+    {
+      "id": "041fccb437c1fc5d",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 81,
+      "mode": "page",
+      "reason": "nonconsecutive-previous-label",
+      "bbox": null
+    },
+    {
+      "id": "41028e74e48e6947",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 82,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "3ecca1385fd5c4c7",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 83,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "e9f94fd04ba5a795",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 83,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        382.893,
+        595.32,
+        484.313
+      ]
+    },
+    {
+      "id": "36cda1f769bc3ee9",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 83,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        484.313,
+        595.32,
+        546.713
+      ]
+    },
+    {
+      "id": "70b61ebfe99f8bf8",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 83,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        546.713,
+        595.32,
+        601.313
+      ]
+    },
+    {
+      "id": "d334e4fed41a0f14",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 83,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        632.513,
+        595.32,
+        694.943
+      ]
+    },
+    {
+      "id": "22c3bcb9cad2de37",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 83,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "a5cf6228c011dae0",
+      "sourcePath": "电机学/电机学习题及题目库.pdf",
+      "page": 87,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "1ae64e045fc00342",
+      "sourcePath": "程序设计基础/C复习资料 (1).pdf",
+      "page": 32,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        171.207,
+        521.88,
+        210.931
+      ]
+    },
+    {
+      "id": "c254591a38f99d7d",
+      "sourcePath": "程序设计基础/昆明理工大学 C语言程序设计-笔记考试复习试卷.pdf",
+      "page": 45,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "fb683083356cf558",
+      "sourcePath": "程序设计基础/昆明理工大学 C语言程序设计-笔记考试复习试卷.pdf",
+      "page": 47,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "67fcbaf7b761edf6",
+      "sourcePath": "程序设计基础/昆明理工大学 C语言程序设计-笔记考试复习试卷.pdf",
+      "page": 51,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "1e5be9a3a70edeb8",
+      "sourcePath": "线性代数/期末试卷/2006级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "2641702a11e32f0f",
+      "sourcePath": "线性代数/期末试卷/2006级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "c81cf5dcc25ef98f",
+      "sourcePath": "线性代数/期末试卷/2006级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "1fbb47b84ca1e697",
+      "sourcePath": "线性代数/期末试卷/2006级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "27d09e1fc3253d38",
+      "sourcePath": "线性代数/期末试卷/2006级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "70646ad3a144ef57",
+      "sourcePath": "线性代数/期末试卷/2006级线性代数试题(A卷).pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        112.91,
+        516.0,
+        165.44
+      ]
+    },
+    {
+      "id": "dace6995359be8cd",
+      "sourcePath": "线性代数/期末试卷/2006级线性代数试题(A卷).pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        165.44,
+        516.0,
+        196.64
+      ]
+    },
+    {
+      "id": "2fe90250e885a9e4",
+      "sourcePath": "线性代数/期末试卷/2006级线性代数试题(A卷).pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "6c14bf1448921776",
+      "sourcePath": "线性代数/期末试卷/2008级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        140.209,
+        595.0,
+        189.048
+      ]
+    },
+    {
+      "id": "be7402035abd03a3",
+      "sourcePath": "线性代数/期末试卷/2008级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "4b6d82001cb2dc6c",
+      "sourcePath": "线性代数/期末试卷/2008级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "f7b3e282b8574a8c",
+      "sourcePath": "线性代数/期末试卷/2008级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        291.408,
+        595.0,
+        328.008
+      ]
+    },
+    {
+      "id": "0e6c20511f3e87b0",
+      "sourcePath": "线性代数/期末试卷/2008级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "40c1e4d507403748",
+      "sourcePath": "线性代数/期末试卷/2008级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "03dcfb524d1045b9",
+      "sourcePath": "线性代数/期末试卷/2008级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "4706bfb9ad60abfa",
+      "sourcePath": "线性代数/期末试卷/2008级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        494.808,
+        595.0,
+        532.849
+      ]
+    },
+    {
+      "id": "43de7c8365c4f4dd",
+      "sourcePath": "线性代数/期末试卷/2008级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        532.849,
+        595.0,
+        562.608
+      ]
+    },
+    {
+      "id": "63194a833c15de7a",
+      "sourcePath": "线性代数/期末试卷/2008级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "9cb958cd3cc61e9a",
+      "sourcePath": "线性代数/期末试卷/2009级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "640098236bfa1090",
+      "sourcePath": "线性代数/期末试卷/2009级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "ae2c8c59e3fb2755",
+      "sourcePath": "线性代数/期末试卷/2009级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "a447d6f568e82db2",
+      "sourcePath": "线性代数/期末试卷/2009级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "589030c87a81d516",
+      "sourcePath": "线性代数/期末试卷/2009级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "1a8396b44b57c2dc",
+      "sourcePath": "线性代数/期末试卷/2009级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "dc9ea3fb6e212d8b",
+      "sourcePath": "线性代数/期末试卷/2009级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "5e744b1c9e8ea21a",
+      "sourcePath": "线性代数/期末试卷/2009级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "dfccf9a472ddc094",
+      "sourcePath": "线性代数/期末试卷/2009级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "ff460edd52cc65db",
+      "sourcePath": "线性代数/期末试卷/2009级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "0850512a7e5c3d9f",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "67480a80b50b4002",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "52c2b3110219ebce",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "9f24354001ceaf13",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "b3d8225f397be74b",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "question-region-too-short",
+      "bbox": null
+    },
+    {
+      "id": "4de460a64dc35844",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "ff8cafe0e6d90eac",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "58cb9cf818a07e00",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "46c58cd766282f69",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "f25097a0983a849d",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "25682252edfefa7c",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "a8eca2d7ce9878cb",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "3f95a277953fd79b",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "a82ea95aa44ebdca",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "2c4b35a558019499",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        390.547,
+        521.0,
+        514.148
+      ]
+    },
+    {
+      "id": "4fd521b8f24681e0",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "9209dd1398cce542",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 2,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        560.948,
+        521.0,
+        608.288
+      ]
+    },
+    {
+      "id": "a77668934e5d0181",
+      "sourcePath": "线性代数/期末试卷/2010线性代数试卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "dd262898a0f1367a",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "dd5928d6d610336a",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "5894f06cc81544e8",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "8be7cb408357eabd",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "nonconsecutive-next-label",
+      "bbox": null
+    },
+    {
+      "id": "5d6c24470b936098",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "c1c8f0be0b3ee1f2",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "12e69a802097cbd2",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "4e77dd72001b3b56",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "3be61ee8b94bbf06",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "1eb1a21870852264",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "a42aa37471c4f5f9",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "049069bd00be1f29",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "a784795a0d89821b",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "627ebb931d5ece7f",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "e8f1f1a673576381",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "ambiguous-repeated-question-label",
+      "bbox": null
+    },
+    {
+      "id": "44b96521be6024dd",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "a0b27900c352d7e3",
+      "sourcePath": "线性代数/期末试卷/2011级线性代数试题(A卷).pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "709f4d5e272d28fb",
+      "sourcePath": "线性代数/期末试卷/2012级线性代数试卷（A卷）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "dee3b1941496a96a",
+      "sourcePath": "线性代数/期末试卷/2012级线性代数试卷（A卷）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "7c61fb37d94a801f",
+      "sourcePath": "线性代数/期末试卷/2012级线性代数试卷（A卷）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "2304ce03ad147528",
+      "sourcePath": "线性代数/期末试卷/2012级线性代数试卷（A卷）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "5c056fe2d81ced4e",
+      "sourcePath": "线性代数/期末试卷/2012级线性代数试卷（A卷）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "a26a3d0590288af6",
+      "sourcePath": "线性代数/期末试卷/2012级线性代数试卷（A卷）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "058e9df7bf4c8860",
+      "sourcePath": "线性代数/期末试卷/2012级线性代数试卷（A卷）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "e920499eea506297",
+      "sourcePath": "线性代数/期末试卷/2012级线性代数试卷（A卷）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "dca91172e2449dcf",
+      "sourcePath": "线性代数/期末试卷/2012级线性代数试卷（A卷）.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "28f44bba38cac3d6",
+      "sourcePath": "线性代数/期末试卷/2012级线性代数试卷（A卷）.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "4ce3d81f2605df4f",
+      "sourcePath": "线性代数/期末试卷/2017级线性代数（期末卷A）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "630a2a06fb09e299",
+      "sourcePath": "线性代数/期末试卷/2017级线性代数（期末卷A）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "125b1fb39272480c",
+      "sourcePath": "线性代数/期末试卷/2017级线性代数（期末卷A）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "702f8f49efbfedb1",
+      "sourcePath": "线性代数/期末试卷/2017级线性代数（期末卷A）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "ae84d48a5b2b8db4",
+      "sourcePath": "线性代数/期末试卷/2017级线性代数（期末卷A）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "0efc25667b696e9a",
+      "sourcePath": "线性代数/期末试卷/2017级线性代数（期末卷A）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "2f77969307b6a9f7",
+      "sourcePath": "线性代数/期末试卷/2017级线性代数（期末卷A）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "b19319cc59820987",
+      "sourcePath": "线性代数/期末试卷/2017级线性代数（期末卷A）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "5cd5df291420e767",
+      "sourcePath": "线性代数/期末试卷/2017级线性代数（期末卷A）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "e40267cfcdb3acb2",
+      "sourcePath": "线性代数/期末试卷/2017级线性代数（期末卷A）.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "9cfbd1d52d6a5241",
+      "sourcePath": "线性代数/期末试卷/2017级线性代数（期末卷A）.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "5c2b51d6e3fa8b32",
+      "sourcePath": "线性代数/期末试卷/2017级线性代数（期末卷A）.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "33bc8ac085a45543",
+      "sourcePath": "线性代数/期末试卷/2017级线性代数（期末卷A）.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "6ce26d52a67a58f8",
+      "sourcePath": "线性代数/期末试卷/2017级线性代数（期末卷A）.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "e28bf91b41aa6da1",
+      "sourcePath": "线性代数/期末试卷/2017级线性代数（期末卷A）.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "e2ca980fe2e16ec9",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "afc38cefed20ecf8",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "1db091dd328b28ae",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        372.429,
+        595.3,
+        412.903
+      ]
+    },
+    {
+      "id": "0f298ac2a8d00e63",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "c728552ecd570c9b",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "f40394d3df7e764b",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "5125b3b98b963e80",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "4eb4c853b1f7a4b0",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "3384c12e6e976268",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "6bcf40559707f12f",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "e680fd9057ee7079",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "9548fe45313e4336",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "0fb3cb4ab08c0245",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "b2022c0e4641ee2e",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "49f2aee407e80b23",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "6f9a051f12164c44",
+      "sourcePath": "线性代数/期末试卷/2019级线性代数期末考试试卷(A)卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "f4841d48ca522b6e",
+      "sourcePath": "线性代数/期末试卷/2020级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "3a43bdb89c3d60e0",
+      "sourcePath": "线性代数/期末试卷/2020级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "stem-anchor-not-in-crop",
+      "bbox": null
+    },
+    {
+      "id": "71af496e43a093e3",
+      "sourcePath": "线性代数/期末试卷/2020级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "f6c13e31c3333f31",
+      "sourcePath": "线性代数/期末试卷/2020级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "ad61ead54d2ce828",
+      "sourcePath": "线性代数/期末试卷/2020级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "3fa731f0f94bb60e",
+      "sourcePath": "线性代数/期末试卷/2020级线性代数期末考试试卷(A)卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "e4062435132c2b1c",
+      "sourcePath": "线性代数/期末试卷/2020级线性代数期末考试试卷(A)卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "e6ae5bff44794af9",
+      "sourcePath": "线性代数/期末试卷/2020级线性代数期末考试试卷(A)卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "c406ad77fd36a856",
+      "sourcePath": "线性代数/期末试卷/2021级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "649560c3e3a2ee27",
+      "sourcePath": "线性代数/期末试卷/2021级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "5bc1bdbb4af39874",
+      "sourcePath": "线性代数/期末试卷/2021级线性代数期末考试试卷(A)卷.pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        447.732,
+        595.32,
+        499.188
+      ]
+    },
+    {
+      "id": "74cf35606564981e",
+      "sourcePath": "线性代数/期末试卷/2021级线性代数期末考试试卷(A)卷.pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "349e8f3258593745",
+      "sourcePath": "线性代数/期末试卷/2021级线性代数期末考试试卷(A)卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "37bbb6229ec5429d",
+      "sourcePath": "线性代数/期末试卷/2021级线性代数期末考试试卷(A)卷.pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "561b16a3660c7b7c",
+      "sourcePath": "线性代数/期末试卷/2021级线性代数期末考试试卷(A)卷.pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "1045da8560e9def9",
+      "sourcePath": "线性代数/阶段性试卷/2020年线性代数阶段性测试试卷(第1，2章).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "stem-anchor-not-in-crop",
+      "bbox": null
+    },
+    {
+      "id": "f046f958a9e7d93b",
+      "sourcePath": "线性代数/阶段性试卷/2020年线性代数阶段性测试试卷(第1，2章).pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        397.303,
+        595.32,
+        428.602
+      ]
+    },
+    {
+      "id": "04ae3888d40c9af9",
+      "sourcePath": "线性代数/阶段性试卷/2020年线性代数阶段性测试试卷(第1，2章).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "fa9b8391d6e401d2",
+      "sourcePath": "线性代数/阶段性试卷/2020年线性代数阶段性测试试卷(第1，2章).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "1be7b414dfa994b8",
+      "sourcePath": "线性代数/阶段性试卷/2020年线性代数阶段性测试试卷(第1，2章).pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        527.482,
+        595.32,
+        579.952
+      ]
+    },
+    {
+      "id": "b6ef619ae301fd25",
+      "sourcePath": "线性代数/阶段性试卷/2020年线性代数阶段性测试试卷(第1，2章).pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        579.952,
+        595.32,
+        650.272
+      ]
+    },
+    {
+      "id": "5418c0bc789a217e",
+      "sourcePath": "线性代数/阶段性试卷/2020年线性代数阶段性测试试卷(第1，2章).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "7787daa658ad5638",
+      "sourcePath": "线性代数/阶段性试卷/2020年线性代数阶段性测试试卷(第1，2章).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    },
+    {
+      "id": "3fb231e8700b8d70",
+      "sourcePath": "线性代数/阶段性试卷/2020年线性代数阶段性测试试卷(第1，2章).pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "2b5afca4e4866d81",
+      "sourcePath": "线性代数/阶段性试卷/2020年线性代数阶段性测试试卷(第1，2章).pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "e8c217186670fe6e",
+      "sourcePath": "线性代数/阶段性试卷/2020年线性代数阶段性测试试卷(第1，2章).pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "aeb323c0e6288981",
+      "sourcePath": "线性代数/阶段性试卷/2020年线性代数阶段性测试试卷(第1，2章).pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "9da8f3db60541b00",
+      "sourcePath": "线性代数/阶段性试卷/2020年线性代数阶段性测试试卷(第1，2章).pdf",
+      "page": 3,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "aa63ea5e36276160",
+      "sourcePath": "线性代数/阶段性试卷/2020年线性代数阶段性测试试卷(第1，2章).pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "a519627dcb127b13",
+      "sourcePath": "线性代数/阶段性试卷/2020年线性代数阶段性测试试卷(第1，2章).pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "insufficient-aligned-label-evidence",
+      "bbox": null
+    },
+    {
+      "id": "8067fed7a67a1fa4",
+      "sourcePath": "高数A上/期末试卷及答案/2020上/2020级高等数学A1期末试题A卷(2).pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        357.518,
+        595.32,
+        392.019
+      ]
+    },
+    {
+      "id": "32e61bd17f145a23",
+      "sourcePath": "高数A上/期末试卷及答案/2020上/2020级高等数学A1期末试题A卷(2).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "stem-anchor-not-in-crop",
+      "bbox": null
+    },
+    {
+      "id": "75d9800ec4edd27a",
+      "sourcePath": "高数A上/期末试卷及答案/2020上/2020级高等数学A1期末试题A卷(2).pdf",
+      "page": 1,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "6a2598aa09027c94",
+      "sourcePath": "高数A上/期末试卷及答案/2020上/2020级高等数学A1期末试题A卷(2).pdf",
+      "page": 1,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        631.048,
+        595.32,
+        700.768
+      ]
+    },
+    {
+      "id": "9f8f08163f05071e",
+      "sourcePath": "高数A上/期末试卷及答案/2020上/2020级高等数学A1期末试题A卷(2).pdf",
+      "page": 2,
+      "mode": "page",
+      "reason": "text-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "ec5560aabc38972f",
+      "sourcePath": "高数A上/期末试卷及答案/2020上/2020级高等数学A1期末试题A卷(2).pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        105.848,
+        595.32,
+        302.558
+      ]
+    },
+    {
+      "id": "3e91a7ab52523da6",
+      "sourcePath": "高数A上/期末试卷及答案/2020上/2020级高等数学A1期末试题A卷(2).pdf",
+      "page": 3,
+      "mode": "crop",
+      "reason": "aligned-consecutive-question-labels",
+      "bbox": [
+        0.0,
+        302.558,
+        595.32,
+        535.138
+      ]
+    },
+    {
+      "id": "245bb7323b7810e3",
+      "sourcePath": "高数A上/期末试卷及答案/2020上/2020级高等数学A1期末试题A卷(2).pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "graphic-crosses-question-boundary",
+      "bbox": null
+    },
+    {
+      "id": "c57a91bb6a3589f1",
+      "sourcePath": "高数A上/期末试卷及答案/2020上/2020级高等数学A1期末试题A卷(2).pdf",
+      "page": 4,
+      "mode": "page",
+      "reason": "no-next-label-possible-page-continuation",
+      "bbox": null
+    }
+  ],
+  "summary": {
+    "questionCount": 9211,
+    "handled": 580,
+    "modes": {
+      "page": 438,
+      "verified-mathml": 1,
+      "crop": 141
+    },
+    "uniqueImages": 353,
+    "allIdsUnchanged": true
+  }
+}

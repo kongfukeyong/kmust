@@ -1,0 +1,578 @@
+{
+  "schemaVersion": 1,
+  "repository": "https://github.com/123pyLeo/KUST-",
+  "commit": "cd46fa80e1d557a8d5406b5223c899d75e8ca4be",
+  "totalFiles": 327,
+  "totalBytes": 316664734,
+  "fileTypes": {
+    "md": 1,
+    "pdf": 186,
+    "doc": 42,
+    "docx": 45,
+    "tmp": 1,
+    "pptm": 1,
+    "xls": 2,
+    "txt": 1,
+    "zip": 1,
+    "jpg": 42,
+    "xlsx": 3,
+    "rar": 1,
+    "pptx": 1
+  },
+  "courses": 27,
+  "resourcesByStatus": {
+    "text-no-question-boundary": 26,
+    "extracted-needs-review": 130,
+    "duplicate": 4,
+    "excluded-temporary": 15,
+    "extraction-error": 5,
+    "answer-source": 59,
+    "needs-ocr": 39,
+    "reference-text": 2,
+    "source-only": 47
+  },
+  "questionCount": 9365,
+  "questionsWithAnswers": 2526,
+  "verifiedQuestions": 0,
+  "questionsByCourse": {
+    "c++面向对象程序设计": 611,
+    "c语言": 728,
+    "传感器": 19,
+    "大学物理": 902,
+    "大学计算机": 392,
+    "思想道德与法治": 88,
+    "操作系统期末试卷": 174,
+    "数据库与数据仓库": 1070,
+    "新思想": 640,
+    "概统": 34,
+    "模式识别": 38,
+    "模电": 98,
+    "毛 概": 556,
+    "电力系统稳态分析": 280,
+    "电机学": 449,
+    "程序设计基础": 1254,
+    "线性代数": 156,
+    "自控原理+控制理论": 87,
+    "软件工程": 193,
+    "近代史纲要": 576,
+    "马 原": 984,
+    "高数A上": 19,
+    "高数A下": 17
+  },
+  "issues": [
+    {
+      "path": "README.md",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "传感器/传感器与检测技术2021A - 课程报告.doc",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "传感器/第15讲 传感器与检测技术-总结.pptm",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "传感器/算法实验.docx",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "传感器/计算题.docx",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "大学物理/大物试卷/大物上/2012物理Ⅰ试卷（横）A.doc",
+      "reason": "/opt/kust-study/source-utf8/KUST--main/大学物理/大物试卷/大物上/2012物理Ⅰ试卷（横）A.doc is not a Word Document.\n"
+    },
+    {
+      "path": "大学物理/大物试卷/大物上/2012级大学物理Ⅰ考卷A参考答案.doc",
+      "reason": "/opt/kust-study/source-utf8/KUST--main/大学物理/大物试卷/大物上/2012级大学物理Ⅰ考卷A参考答案.doc is not a Word Document.\n"
+    },
+    {
+      "path": "大学物理/大物试卷/大物下/05级大学物理（2）（C卷）.pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "大学物理/大物试卷/大物下/07级大学物理（2）（A卷）.pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "大学物理/大物试卷/大物下/08级大学物理（2）（A卷）.pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "大学物理/大物试卷/期中考试/2023大物上期中试卷.pdf",
+      "reason": "no-readable-text",
+      "pages": 3
+    },
+    {
+      "path": "工程制图B/习题册/昆明理工大学工程制图习题册答案.pdf",
+      "reason": "no-readable-text",
+      "pages": 54
+    },
+    {
+      "path": "工程制图B/试卷/B类复习卷（4套）.pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "工程制图B/试卷/B类样卷1.pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "工程制图B/试卷/B类样卷2.pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "工程制图B/试卷/B类样卷3.pdf",
+      "reason": "no-readable-text",
+      "pages": 4
+    },
+    {
+      "path": "数据库与数据仓库/SQL语言.pdf",
+      "reason": "corrupt-font-text-encoding",
+      "pages": 13
+    },
+    {
+      "path": "数据库与数据仓库/数据库系统原理模拟试卷试卷A卷.doc",
+      "reason": "/opt/kust-study/source-utf8/KUST--main/数据库与数据仓库/数据库系统原理模拟试卷试卷A卷.doc is not a Word Document.\n"
+    },
+    {
+      "path": "数据库与数据仓库/数据库系统概论.zip",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "数据库与数据仓库/范式级别判断.pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "数据库与数据仓库/选填题知识点(OCR).pdf",
+      "reason": "corrupt-font-text-encoding",
+      "pages": 9
+    },
+    {
+      "path": "数据库与数据仓库/选填题知识点.pdf",
+      "reason": "corrupt-font-text-encoding",
+      "pages": 9
+    },
+    {
+      "path": "概统/2018/A1  2018.jpg",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "概统/2018/A2 2018.jpg",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "概统/2019/答案2019/1.jpg",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "概统/2019/答案2019/2.jpg",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "概统/2020/答案.docx",
+      "reason": "no-readable-text",
+      "pages": 1
+    },
+    {
+      "path": "概统/2020/试卷.docx",
+      "reason": "no-readable-text",
+      "pages": 1
+    },
+    {
+      "path": "概统/2021/21级填空详解/1.jpg",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "概统/2021/21级填空详解/2.jpg",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "概统/2021/21级填空详解/3.jpg",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "物理实验数据处理/刚体转动惯量的测定.xlsx",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "物理实验数据处理/杨氏模量数据处理.xlsx",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "物理实验数据处理/超声波声速.xlsx",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "物理实验数据处理/霍尔元件.xls",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "电力系统稳态分析/电力系统计算机潮流计算报告要求.rar",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "电工及电子技术基础/昆明理工大学电工及电子技术基础B习题解答.pdf",
+      "reason": "no-readable-text",
+      "pages": 37
+    },
+    {
+      "path": "电工及电子技术基础/电工及电子技术基础b(大题）.pdf",
+      "reason": "no-readable-text",
+      "pages": 5
+    },
+    {
+      "path": "电机学/电机学习题集.pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "电路与电子技术/Fn14uercAOfn12zdlUn2EUAis62x(1).docx",
+      "reason": "no-readable-text",
+      "pages": 1
+    },
+    {
+      "path": "程序设计基础/昆明理工大学 C语言程序设计-笔记考试复习试卷.doc",
+      "reason": "/opt/kust-study/source-utf8/KUST--main/程序设计基础/昆明理工大学 C语言程序设计-笔记考试复习试卷.doc is not a Word Document.\n"
+    },
+    {
+      "path": "线性代数/期末试卷/2004级线性代数试题(A卷).pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "线性代数/期末试卷/2004级线性代数试题(b卷).pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "线性代数/期末试卷/2005级线性代数试题(A卷).pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "线性代数/期末试卷/2005级线性代数试题(B卷).pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "线性代数/期末试卷/2013级线性代数期末试卷（A）.pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "线性代数/期末试卷/2014级线性代数期末卷（A）及答案.PDF",
+      "reason": "no-readable-text",
+      "pages": 7
+    },
+    {
+      "path": "线性代数/期末试卷/2015级线性代数期末试卷（A）.pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "线性代数/期末试卷/2016级线性代数期末试卷（A）.pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "线性代数/期末试卷/2018级线性代数试卷.pdf",
+      "reason": "no-readable-text",
+      "pages": 4
+    },
+    {
+      "path": "线性代数/期末试卷/线性代数19级试题+17、18填空题_20220608134350.pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "线性代数/阶段性试卷/21级线代期中卷.pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "自控原理+控制理论/自控原理近四年试卷整理/参考答案/1.2016-2017学年自动控制原理试卷A-答案及评分标准.doc",
+      "reason": ""
+    },
+    {
+      "path": "软件工程/昆明理工大学《软件工程》2020-2021学年第一学期期末试卷.pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2012上/2012高数A（1）答案.pdf",
+      "reason": "no-readable-text",
+      "pages": 2
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2012上/2012高数A（1）试卷.pdf",
+      "reason": "no-readable-text",
+      "pages": 6
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2013上/2013高数A（1）答案.pdf",
+      "reason": "no-readable-text",
+      "pages": 2
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2013上/2013高数A（1）试卷.pdf",
+      "reason": "no-readable-text",
+      "pages": 4
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2014上/高数A（1）参考答案（201501）.pdf",
+      "reason": "no-readable-text",
+      "pages": 2
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2014上/高数A（1）试卷（201501）.pdf",
+      "reason": "no-readable-text",
+      "pages": 4
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2015上/高等数学A（1）20160105答案.pdf",
+      "reason": "no-readable-text",
+      "pages": 2
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2015上/高等数学A（1）20160105试卷.pdf",
+      "reason": "no-readable-text",
+      "pages": 4
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2016上/2016上答案.pdf",
+      "reason": "no-readable-text",
+      "pages": 2
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2016上/2016上试卷.pdf",
+      "reason": "no-readable-text",
+      "pages": 4
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2017上/2017级高数A(1)答案.pdf",
+      "reason": "no-readable-text",
+      "pages": 2
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2017上/2017级高数A(1)试卷.pdf",
+      "reason": "no-readable-text",
+      "pages": 4
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2018上/2018级高数A(1)期末试卷.pdf",
+      "reason": "no-readable-text",
+      "pages": 4
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2018上/2018级高数A(1)期末试卷答案.pdf",
+      "reason": "no-readable-text",
+      "pages": 2
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2019上/2019级高数A(1)期末试卷.pdf",
+      "reason": "no-readable-text",
+      "pages": 4
+    },
+    {
+      "path": "高数A上/期末试卷及答案/2019上/2019级高数A(1)期末试卷答案.pdf",
+      "reason": "no-readable-text",
+      "pages": 2
+    },
+    {
+      "path": "高数A下/期末试卷/2007下/答案/TMP7.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2007下/答案/TMP8.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2007下/答案/TMP9.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2007下/试题/TMP1.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2007下/试题/TMP2.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2007下/试题/TMP3.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2007下/试题/TMP4.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2007下/试题/TMP5.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2007下/试题/TMP6.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2008下/试题/TMP1.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2008下/试题/TMP2.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2008下/试题/TMP3.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2008下/试题/TMP4.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2008下/试题/TMP5.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2008下/试题/TMP6.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2008下/试题/TMP7.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2008下/试题/TMP8.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2009下/答案/TMP1.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2009下/答案/TMP2.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2009下/答案/TMP3.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2009下/试题/TMP1.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2009下/试题/TMP2.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2009下/试题/TMP3.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2009下/试题/TMP4.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2009下/试题/TMP5.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2009下/试题/TMP6.JPG",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2010下/答案/2010001.Jpg",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2010下/答案/2010002.Jpg",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2010下/试卷/201001.Jpg",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2010下/试卷/201002.Jpg",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2010下/试卷/201003.Jpg",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2010下/试卷/201004.Jpg",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2010下/试卷/201005.Jpg",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2010下/试卷/201006.Jpg",
+      "reason": "source-only-format"
+    },
+    {
+      "path": "高数A下/期末试卷/2012下/答案.pdf",
+      "reason": "no-readable-text",
+      "pages": 2
+    },
+    {
+      "path": "高数A下/期末试卷/2012下/试卷.pdf",
+      "reason": "no-readable-text",
+      "pages": 6
+    },
+    {
+      "path": "高数A下/期末试卷/2013下/2013级高数A（2）.pdf",
+      "reason": "no-readable-text",
+      "pages": 4
+    },
+    {
+      "path": "高数A下/期末试卷/2013下/2013高数A（2）答案.pdf",
+      "reason": "no-readable-text",
+      "pages": 3
+    },
+    {
+      "path": "高数A下/期末试卷/2014下/2014级高数A（2）考卷及答案副本.pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "高数A下/期末试卷/2015下/2015高数下答案.pdf",
+      "reason": "no-readable-text",
+      "pages": 2
+    },
+    {
+      "path": "高数A下/期末试卷/2015下/2015高数下试卷.pdf",
+      "reason": "no-readable-text",
+      "pages": 4
+    },
+    {
+      "path": "高数A下/期末试卷/2016下/2016级高数A(2)期末试卷.pdf",
+      "reason": "no-readable-text",
+      "pages": 4
+    },
+    {
+      "path": "高数A下/期末试卷/2016下/2016级高数A(2)期末试卷答案.pdf",
+      "reason": "no-readable-text",
+      "pages": 2
+    },
+    {
+      "path": "高数A下/期末试卷/2017下/2017级高数A（2）考卷及答案(1).pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "高数A下/期末试卷/2018下/2018级高数A(2)考卷及答案 (1).pdf",
+      "reason": "text-no-question-boundary"
+    },
+    {
+      "path": "高数A下/期末试卷/2019下/2019级高数A1)考卷.pdf",
+      "reason": "no-readable-text",
+      "pages": 4
+    },
+    {
+      "path": "高数A下/期末试卷/2019下/2019级高数A1)考卷及答案(1).pdf",
+      "reason": "no-readable-text",
+      "pages": 6
+    }
+  ],
+  "notes": [
+    "所有题目均来自源文件，未生成或推测答案。",
+    "机器分题统一标为待校对，不代表逐题人工核验。",
+    "DOCX/DOC不虚构页码；PDF页码来自原文件。",
+    "图片、扫描PDF和无法转换的文件保留原件；公式与图表需打开原文件。",
+    "Git blob重复文件不重复入题，临时锁文件保留清单但不作为学习资料。"
+  ]
+}

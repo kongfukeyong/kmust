@@ -1,0 +1,1066 @@
+{
+  "sources": [
+    {
+      "id": "1e870685127eb9aa",
+      "path": "c语言/C语言选择题读程序习题及参考答案(1)(1).doc",
+      "math": 1,
+      "images": 0
+    },
+    {
+      "id": "c6c8488513918fbe",
+      "path": "大学物理/大物试卷/大物下/2012级大学物理Ⅱ考卷.doc",
+      "math": 46,
+      "images": 0
+    },
+    {
+      "id": "ed4cce2243d89c41",
+      "path": "大学物理/大物试卷/大物下/2013物理Ⅱ试卷（横）A.doc",
+      "math": 40,
+      "images": 0
+    },
+    {
+      "id": "c035c26d305b0e1f",
+      "path": "数据库与数据仓库/数据库系统原理模拟试卷试卷B卷.doc",
+      "math": 0,
+      "images": 1
+    },
+    {
+      "id": "15ed33d937befd50",
+      "path": "程序设计基础/C复习资料（带参考答案）.doc",
+      "math": 2,
+      "images": 0
+    },
+    {
+      "id": "5a87a3f02b866945",
+      "path": "程序设计基础/c++面向对象程序设计综合练习题.doc",
+      "math": 0,
+      "images": 3
+    },
+    {
+      "id": "17a46899edbe6b54",
+      "path": "自控原理+控制理论/自控原理近四年试卷整理/1.2016-2017学年自动控制原理试卷A.doc",
+      "math": 2,
+      "images": 12
+    },
+    {
+      "id": "a1f334b961a7bac5",
+      "path": "自控原理+控制理论/自控原理近四年试卷整理/2.2017-2018学年自动控制原理试题A卷.doc",
+      "math": 6,
+      "images": 18
+    },
+    {
+      "id": "4f4ee825752d8663",
+      "path": "自控原理+控制理论/自控原理近四年试卷整理/3.2018-2019学年-自动控制原理A卷.doc",
+      "math": 4,
+      "images": 18
+    },
+    {
+      "id": "b31e1e1ee555d786",
+      "path": "自控原理+控制理论/自控原理近四年试卷整理/4.2018-2019学年-自动控制原理B卷.doc",
+      "math": 5,
+      "images": 16
+    },
+    {
+      "id": "2a8b5f4983b9d2d3",
+      "path": "高数A下/期末试卷/2011下/2011高数A2(A卷及答案）(5,26)/2011级高等数学A(2)（A)卷(5,26).doc",
+      "math": 64,
+      "images": 7
+    },
+    {
+      "id": "0fa5437e3dd92f57",
+      "path": "高数A下/期末试卷/2011下/2011高数A2（B卷及答案）(5.26)/2011级高等数学A(2)（B)卷.doc",
+      "math": 65,
+      "images": 8
+    }
+  ],
+  "fields": [
+    {
+      "id": "d085bd8a56733e9a",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        5723,
+        5740
+      ]
+    },
+    {
+      "id": "f007d30bd31f9982",
+      "field": "stem",
+      "objects": 4,
+      "span": [
+        367,
+        457
+      ]
+    },
+    {
+      "id": "f007d30bd31f9982",
+      "field": "option-A",
+      "objects": 1,
+      "span": [
+        460,
+        461
+      ]
+    },
+    {
+      "id": "f007d30bd31f9982",
+      "field": "option-B",
+      "objects": 1,
+      "span": [
+        464,
+        465
+      ]
+    },
+    {
+      "id": "f007d30bd31f9982",
+      "field": "option-C",
+      "objects": 1,
+      "span": [
+        468,
+        469
+      ]
+    },
+    {
+      "id": "f007d30bd31f9982",
+      "field": "option-D",
+      "objects": 1,
+      "span": [
+        472,
+        473
+      ]
+    },
+    {
+      "id": "c98fc55fd63e6daf",
+      "field": "option-A",
+      "objects": 1,
+      "span": [
+        728,
+        729
+      ]
+    },
+    {
+      "id": "c98fc55fd63e6daf",
+      "field": "option-B",
+      "objects": 1,
+      "span": [
+        732,
+        733
+      ]
+    },
+    {
+      "id": "c98fc55fd63e6daf",
+      "field": "option-C",
+      "objects": 1,
+      "span": [
+        736,
+        737
+      ]
+    },
+    {
+      "id": "c98fc55fd63e6daf",
+      "field": "option-D",
+      "objects": 1,
+      "span": [
+        740,
+        741
+      ]
+    },
+    {
+      "id": "c98fc55fd63e6daf",
+      "field": "option-E",
+      "objects": 1,
+      "span": [
+        744,
+        745
+      ]
+    },
+    {
+      "id": "5ba83d861a03b4fb",
+      "field": "option-A",
+      "objects": 1,
+      "span": [
+        812,
+        813
+      ]
+    },
+    {
+      "id": "5ba83d861a03b4fb",
+      "field": "option-B",
+      "objects": 1,
+      "span": [
+        816,
+        817
+      ]
+    },
+    {
+      "id": "5ba83d861a03b4fb",
+      "field": "option-C",
+      "objects": 1,
+      "span": [
+        820,
+        821
+      ]
+    },
+    {
+      "id": "5ba83d861a03b4fb",
+      "field": "option-D",
+      "objects": 1,
+      "span": [
+        824,
+        825
+      ]
+    },
+    {
+      "id": "6594da6fc7bf8db9",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        1272,
+        1371
+      ]
+    },
+    {
+      "id": "6594da6fc7bf8db9",
+      "field": "option-A",
+      "objects": 1,
+      "span": [
+        1374,
+        1375
+      ]
+    },
+    {
+      "id": "6594da6fc7bf8db9",
+      "field": "option-B",
+      "objects": 1,
+      "span": [
+        1378,
+        1379
+      ]
+    },
+    {
+      "id": "6594da6fc7bf8db9",
+      "field": "option-C",
+      "objects": 1,
+      "span": [
+        1382,
+        1383
+      ]
+    },
+    {
+      "id": "6594da6fc7bf8db9",
+      "field": "option-D",
+      "objects": 1,
+      "span": [
+        1386,
+        1387
+      ]
+    },
+    {
+      "id": "7b3754b08dc1e101",
+      "field": "stem",
+      "objects": 3,
+      "span": [
+        1390,
+        1448
+      ]
+    },
+    {
+      "id": "beac575c63707440",
+      "field": "stem",
+      "objects": 3,
+      "span": [
+        1551,
+        1588
+      ]
+    },
+    {
+      "id": "2ee76a71a2e33ead",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        1636,
+        1689
+      ]
+    },
+    {
+      "id": "7d66d73794b4e88e",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        1865,
+        1950
+      ]
+    },
+    {
+      "id": "0344166e5978e482",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        1952,
+        1990
+      ]
+    },
+    {
+      "id": "498612ddf67161b4",
+      "field": "stem",
+      "objects": 5,
+      "span": [
+        1992,
+        2041
+      ]
+    },
+    {
+      "id": "8a432736c314c92d",
+      "field": "stem",
+      "objects": 3,
+      "span": [
+        2044,
+        2092
+      ]
+    },
+    {
+      "id": "a6e7f17be79fd826",
+      "field": "answer",
+      "objects": 0,
+      "span": [
+        3159,
+        3333
+      ]
+    },
+    {
+      "id": "026189243c184f30",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        361,
+        420
+      ]
+    },
+    {
+      "id": "5022617c7d58ffef",
+      "field": "option-B",
+      "objects": 1,
+      "span": [
+        539,
+        541
+      ]
+    },
+    {
+      "id": "5022617c7d58ffef",
+      "field": "option-D",
+      "objects": 1,
+      "span": [
+        549,
+        551
+      ]
+    },
+    {
+      "id": "71b6f967d7828fa5",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        553,
+        610
+      ]
+    },
+    {
+      "id": "96c5dd03e5d2ab8a",
+      "field": "stem",
+      "objects": 3,
+      "span": [
+        643,
+        703
+      ]
+    },
+    {
+      "id": "96c5dd03e5d2ab8a",
+      "field": "option-A",
+      "objects": 3,
+      "span": [
+        706,
+        711
+      ]
+    },
+    {
+      "id": "96c5dd03e5d2ab8a",
+      "field": "option-B",
+      "objects": 3,
+      "span": [
+        714,
+        719
+      ]
+    },
+    {
+      "id": "96c5dd03e5d2ab8a",
+      "field": "option-C",
+      "objects": 3,
+      "span": [
+        722,
+        727
+      ]
+    },
+    {
+      "id": "96c5dd03e5d2ab8a",
+      "field": "option-D",
+      "objects": 3,
+      "span": [
+        730,
+        735
+      ]
+    },
+    {
+      "id": "c50874d581388da5",
+      "field": "option-A",
+      "objects": 1,
+      "span": [
+        771,
+        772
+      ]
+    },
+    {
+      "id": "c50874d581388da5",
+      "field": "option-B",
+      "objects": 1,
+      "span": [
+        775,
+        776
+      ]
+    },
+    {
+      "id": "c50874d581388da5",
+      "field": "option-C",
+      "objects": 1,
+      "span": [
+        779,
+        780
+      ]
+    },
+    {
+      "id": "c50874d581388da5",
+      "field": "option-D",
+      "objects": 1,
+      "span": [
+        783,
+        784
+      ]
+    },
+    {
+      "id": "0044e5283e27c4d4",
+      "field": "stem",
+      "objects": 2,
+      "span": [
+        786,
+        843
+      ]
+    },
+    {
+      "id": "0044e5283e27c4d4",
+      "field": "option-A",
+      "objects": 2,
+      "span": [
+        846,
+        855
+      ]
+    },
+    {
+      "id": "0044e5283e27c4d4",
+      "field": "option-B",
+      "objects": 1,
+      "span": [
+        858,
+        867
+      ]
+    },
+    {
+      "id": "0044e5283e27c4d4",
+      "field": "option-D",
+      "objects": 2,
+      "span": [
+        881,
+        889
+      ]
+    },
+    {
+      "id": "afb0fe2160f473aa",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        2212,
+        2305
+      ]
+    },
+    {
+      "id": "1b8973baebf7e153",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        2308,
+        2360
+      ]
+    },
+    {
+      "id": "52955e03bfec2324",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        2881,
+        2997
+      ]
+    },
+    {
+      "id": "d4b11b69f76a7718",
+      "field": "option-D",
+      "objects": 1,
+      "span": [
+        328,
+        339
+      ]
+    },
+    {
+      "id": "16aada0c1d14ed29",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        5719,
+        5736
+      ]
+    },
+    {
+      "id": "2cd600dd596df0bd",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        20090,
+        20274
+      ]
+    },
+    {
+      "id": "be667ddca5afc308",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        63966,
+        64006
+      ]
+    },
+    {
+      "id": "50e1d98b83d0d470",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        64008,
+        64055
+      ]
+    },
+    {
+      "id": "e32df40dc401f53c",
+      "field": "stem",
+      "objects": 3,
+      "span": [
+        247,
+        307
+      ]
+    },
+    {
+      "id": "4acb85a143a09a3c",
+      "field": "stem",
+      "objects": 2,
+      "span": [
+        309,
+        353
+      ]
+    },
+    {
+      "id": "cce6c2c5c385b652",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        355,
+        377
+      ]
+    },
+    {
+      "id": "2b4790cbd64fe4b4",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        379,
+        411
+      ]
+    },
+    {
+      "id": "92ca9c2c2f373eee",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        413,
+        464
+      ]
+    },
+    {
+      "id": "a2fa5996fe2dda1c",
+      "field": "stem",
+      "objects": 3,
+      "span": [
+        466,
+        496
+      ]
+    },
+    {
+      "id": "a9aad6379df495fc",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        592,
+        635
+      ]
+    },
+    {
+      "id": "622080e1d2954bf7",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        637,
+        684
+      ]
+    },
+    {
+      "id": "0ea3b1d98a4f5ff0",
+      "field": "stem",
+      "objects": 2,
+      "span": [
+        386,
+        469
+      ]
+    },
+    {
+      "id": "3772d9d23983e603",
+      "field": "stem",
+      "objects": 6,
+      "span": [
+        471,
+        547
+      ]
+    },
+    {
+      "id": "1793b2318a43f671",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        668,
+        755
+      ]
+    },
+    {
+      "id": "077fe575623e61db",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        757,
+        815
+      ]
+    },
+    {
+      "id": "54335867a66d575e",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        817,
+        844
+      ]
+    },
+    {
+      "id": "8cdeeacca153c190",
+      "field": "stem",
+      "objects": 3,
+      "span": [
+        846,
+        954
+      ]
+    },
+    {
+      "id": "93ee780cd8a86e3b",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        956,
+        1007
+      ]
+    },
+    {
+      "id": "988b1494f0e5fcb7",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        1009,
+        1041
+      ]
+    },
+    {
+      "id": "8c5e28347a072f24",
+      "field": "stem",
+      "objects": 4,
+      "span": [
+        1043,
+        1127
+      ]
+    },
+    {
+      "id": "2ddb510e2c63d003",
+      "field": "stem",
+      "objects": 4,
+      "span": [
+        1129,
+        1262
+      ]
+    },
+    {
+      "id": "07cae4040243ca1d",
+      "field": "stem",
+      "objects": 5,
+      "span": [
+        429,
+        481
+      ]
+    },
+    {
+      "id": "ef3a106e891fffec",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        663,
+        805
+      ]
+    },
+    {
+      "id": "bb7f597706adff21",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        807,
+        831
+      ]
+    },
+    {
+      "id": "7cac6ff1a07724c7",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        833,
+        895
+      ]
+    },
+    {
+      "id": "e78fb7b89436bf0e",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        897,
+        941
+      ]
+    },
+    {
+      "id": "454a82b38bee3b21",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        943,
+        1020
+      ]
+    },
+    {
+      "id": "a2a306bd3ea6438c",
+      "field": "stem",
+      "objects": 5,
+      "span": [
+        1022,
+        1114
+      ]
+    },
+    {
+      "id": "a79bd61b2e4aaf54",
+      "field": "stem",
+      "objects": 3,
+      "span": [
+        1116,
+        1149
+      ]
+    },
+    {
+      "id": "f078bc17aebacbdb",
+      "field": "stem",
+      "objects": 3,
+      "span": [
+        1176,
+        1255
+      ]
+    },
+    {
+      "id": "1aac2c9bc11c5d1b",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        1257,
+        1348
+      ]
+    },
+    {
+      "id": "1970e44d7ccff4d6",
+      "field": "stem",
+      "objects": 5,
+      "span": [
+        463,
+        515
+      ]
+    },
+    {
+      "id": "cb92bc67e210f31d",
+      "field": "stem",
+      "objects": 4,
+      "span": [
+        558,
+        671
+      ]
+    },
+    {
+      "id": "2e41627fe7ade7d2",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        741,
+        784
+      ]
+    },
+    {
+      "id": "10d4cfdbb8e2afc6",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        786,
+        810
+      ]
+    },
+    {
+      "id": "77c6a65329f6b3be",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        812,
+        874
+      ]
+    },
+    {
+      "id": "322cbea750f1abd4",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        876,
+        920
+      ]
+    },
+    {
+      "id": "d33c2f5e4da29a74",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        922,
+        972
+      ]
+    },
+    {
+      "id": "1574277c48989f83",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        974,
+        1062
+      ]
+    },
+    {
+      "id": "6dc5bcc41ee7b663",
+      "field": "stem",
+      "objects": 3,
+      "span": [
+        1064,
+        1097
+      ]
+    },
+    {
+      "id": "0d07db727efdaa23",
+      "field": "stem",
+      "objects": 2,
+      "span": [
+        1124,
+        1146
+      ]
+    },
+    {
+      "id": "c8393101d3caab35",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        1148,
+        1200
+      ]
+    },
+    {
+      "id": "42ef23310584513b",
+      "field": "stem",
+      "objects": 8,
+      "span": [
+        79,
+        124
+      ]
+    },
+    {
+      "id": "b09c16703ee9ea90",
+      "field": "stem",
+      "objects": 6,
+      "span": [
+        126,
+        139
+      ]
+    },
+    {
+      "id": "04ca3665c53423c5",
+      "field": "stem",
+      "objects": 4,
+      "span": [
+        141,
+        149
+      ]
+    },
+    {
+      "id": "45e392e5e805ea47",
+      "field": "stem",
+      "objects": 4,
+      "span": [
+        151,
+        167
+      ]
+    },
+    {
+      "id": "39959b4ffdea4d20",
+      "field": "stem",
+      "objects": 4,
+      "span": [
+        169,
+        201
+      ]
+    },
+    {
+      "id": "64f3b64a2544073c",
+      "field": "stem",
+      "objects": 4,
+      "span": [
+        203,
+        227
+      ]
+    },
+    {
+      "id": "7d7c543ce3cd764e",
+      "field": "stem",
+      "objects": 2,
+      "span": [
+        229,
+        235
+      ]
+    },
+    {
+      "id": "02ce0d4556fa1922",
+      "field": "stem",
+      "objects": 3,
+      "span": [
+        237,
+        254
+      ]
+    },
+    {
+      "id": "9f21886ee634f761",
+      "field": "stem",
+      "objects": 35,
+      "span": [
+        256,
+        494
+      ]
+    },
+    {
+      "id": "e8ae6be19a778ea4",
+      "field": "stem",
+      "objects": 6,
+      "span": [
+        70,
+        82
+      ]
+    },
+    {
+      "id": "6c8426df11219787",
+      "field": "stem",
+      "objects": 12,
+      "span": [
+        84,
+        151
+      ]
+    },
+    {
+      "id": "581995709eaee5c9",
+      "field": "stem",
+      "objects": 4,
+      "span": [
+        153,
+        169
+      ]
+    },
+    {
+      "id": "5ce9b4780e620958",
+      "field": "stem",
+      "objects": 4,
+      "span": [
+        171,
+        203
+      ]
+    },
+    {
+      "id": "13232e8d70e2055b",
+      "field": "stem",
+      "objects": 2,
+      "span": [
+        205,
+        211
+      ]
+    },
+    {
+      "id": "4b24f345c245a1cf",
+      "field": "stem",
+      "objects": 1,
+      "span": [
+        213,
+        224
+      ]
+    },
+    {
+      "id": "afa43aac39b1542c",
+      "field": "stem",
+      "objects": 4,
+      "span": [
+        226,
+        245
+      ]
+    },
+    {
+      "id": "71b6f5d85b136413",
+      "field": "stem",
+      "objects": 38,
+      "span": [
+        247,
+        458
+      ]
+    }
+  ],
+  "unresolved": [],
+  "summary": {
+    "questionsEnhanced": 83,
+    "fieldsEnhanced": 109,
+    "objectsRecovered": 299,
+    "unresolved": 0
+  }
+}
