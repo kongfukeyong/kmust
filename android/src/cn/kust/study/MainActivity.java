@@ -25,7 +25,7 @@ public class MainActivity extends Activity {
     getWindow().setNavigationBarColor(Color.WHITE);
     getWindow().getDecorView().setSystemUiVisibility(android.view.View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR|android.view.View.SYSTEM_UI_FLAG_LIGHT_NAVIGATION_BAR);
     web=new WebView(this);setContentView(web);
-    WebSettings s=web.getSettings();s.setJavaScriptEnabled(true);s.setDomStorageEnabled(true);s.setAllowFileAccess(false);s.setAllowContentAccess(false);s.setMixedContentMode(WebSettings.MIXED_CONTENT_NEVER_ALLOW);s.setUserAgentString(s.getUserAgentString()+" KustAndroid/1.0.4");
+    WebSettings s=web.getSettings();s.setJavaScriptEnabled(true);s.setDomStorageEnabled(true);s.setAllowFileAccess(false);s.setAllowContentAccess(false);s.setMixedContentMode(WebSettings.MIXED_CONTENT_NEVER_ALLOW);s.setUserAgentString(s.getUserAgentString()+" KustAndroid/1.0.5");
     CookieManager.getInstance().setAcceptThirdPartyCookies(web,false);
     web.setWebChromeClient(new WebChromeClient());
     web.setWebViewClient(new WebViewClient(){
@@ -57,7 +57,7 @@ public class MainActivity extends Activity {
     if("kust-export".equals(scheme)){
       String data=uri.getQueryParameter("data");if(data==null||data.length()>5000000)return true;
       exportBytes=data.getBytes(StandardCharsets.UTF_8);
-      Intent i=new Intent(Intent.ACTION_CREATE_DOCUMENT);i.addCategory(Intent.CATEGORY_OPENABLE);i.setType("application/json");i.putExtra(Intent.EXTRA_TITLE,"昆工拾题-学习记录.json");
+      Intent i=new Intent(Intent.ACTION_CREATE_DOCUMENT);i.addCategory(Intent.CATEGORY_OPENABLE);i.setType("application/json");i.putExtra(Intent.EXTRA_TITLE,"资料库-学习记录.json");
       try{startActivityForResult(i,42);}catch(Exception e){Toast.makeText(this,"无法打开文件保存器",Toast.LENGTH_LONG).show();}return true;
     }
     if(!"https".equals(scheme)&&!"http".equals(scheme))return true;

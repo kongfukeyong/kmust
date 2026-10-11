@@ -1,8 +1,7 @@
-# 昆工拾题
+# 资料库
 
-这是一个昆明理工大学资料库的自建客户端与网页，使用 AI 进行题目分离和整理，基于 https://github.com/123pyLeo/KUST- 开发。
+按提供的 Masonry Flow 风格开发的昆明理工大学资料库与 Android 应用。
 
-采用 Masonry Flow 风格，提供网页版与 Android 应用。
 - 网页：https://news.kongfu.xyz/kust/
 - 原始资料下载：https://news.kongfu.xyz/kust/originals.html
 - 全部原资料 ZIP：https://news.kongfu.xyz/kust/downloads/kust-original-materials.zip
