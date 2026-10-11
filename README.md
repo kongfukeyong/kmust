@@ -12,12 +12,6 @@
 - 原始仓库：https://github.com/123pyLeo/KUST-
 - 来源提交：`cd46fa80e1d557a8d5406b5223c899d75e8ca4be`
 
-## 已实现
-
-独立原始资料下载区，支持单个原文件、27门课程ZIP和完整原资料ZIP（327个文件，约241.2 MiB），均从服务器下载；手机单列、平板双列、桌面三/四列瀑布流；真实原卷缩略图；课程与类型筛选；全文关键词搜索；原文件下载；逐题查看、答案展开；收藏、待复习与已掌握记录；学习记录 JSON 导出。
-
-APK 使用原生 Android WebView 外壳，联网访问服务器最新版；连接失败或首屏超时后切换到随包离线题库。原文件需联网打开。仅申请联网权限，没有账号系统或分析埋点。手机浏览器和 APK 的学习记录各自保存在设备中；在线页面与离线页面亦使用不同存储空间，不自动同步。卸载会清除本地学习记录，导出功能可留存 JSON 备份。
-
 ## 内容与题目质量
 
 全部 327 个原文件已部署并按 Git blob SHA-1 核验，包含 27 个课程。正常资料列表显示 311 份（排除 15 个临时文件及仓库说明），原始文件仍保留。
@@ -38,27 +32,7 @@ APK 使用原生 Android WebView 外壳，联网访问服务器最新版；连�
 
 `public/files` 在服务器是指向原始仓库副本的链接。源码包不重复内嵌约 317 MB 原始文件；原卷已经部署，可在网页访问。下载固定提交的 ZIP 后，用 Python `zipfile` 解压可正确保留中文文件名。
 
-## 服务器部署位置
 
-- 活跃版本：`/opt/kust-study/current` → `/opt/kust-study/releases/v1`
-- 原始文件：`/opt/kust-study/source-utf8/KUST--main`
-- Python 工具环境：`/opt/kust-study/build/venv`
-- APK 签名：`/opt/kust-study/signing`（仅服务器 root 可读，不包含在源码或公开下载中）
-- Nginx 修改前备份：`/opt/kust-study/build/*.bak`
-
-站点通过 Nginx 静态服务，不依赖临时进程；修改只增加两个既有站点的 `/kust/` 路由。后续发布可建立新版本目录并切换 `current` 符号链接。回滚时恢复对应 Nginx 备份并先运行 `nginx -t`。
-
-本地预览：
-
-```sh
-python -m http.server 8876 --directory public
-```
-
-Android 构建需要 Java 17、Android API 35 平台包和 Build Tools 35。`android/build.sh` 使用服务器已有 SDK 默认路径，`ANDROID_SDK_ROOT` 可覆盖 SDK 根目录。保留签名目录以便后续 APK 覆盖更新；不要公开签名文件。
-
-## 验证范围
-
-已验证源文件完整性、全量资源链接、题库结构、网页加载和部分手机交互、390px 手机单列布局、APK v2/v3 签名及 Manifest。未在实体 Android 手机上安装测试。
 
 
 ## 1.0.2 数学公式更新（2026-10-11）
